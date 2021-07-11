@@ -30,6 +30,8 @@ R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynami
 
 **Conference Publications**
 ------
+R. Wang, T. Chen, Z. Xu, and P. Gao, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements." Asilomar Conference on Signals, Systems and Computers, Proc. of Asilomar Conference on Signals, Systems, and Computers 2021. Pacific Grove, CA, Nov. 2021.
+
 Z. Liu, G. Ding, A. Bukkittu, M. Gupta, **P. Gao**, A. Ahmed, S. Zhang, X. Gao, S. Singhavi, L. Li, W. Wei, Z. Hu, H. Shi, X. Liang, T. Mitamura, E. P. Xing, and Z. Hu. "A Data-Centric Framework for Composable NLP Workflows." Proc. of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations, November, 2020.
 
 M. Wang, J. H. Chow, Y. Hao, S. Zhang, W. Li, R. Wang, **P. Gao**, C. Lackner, E. Farantatos, and M. Patel. "A Low-rank Framework of PMU Data Recovery and Event Identification." Proc. of the First IEEE International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), College Station, Texas, May, 2019. 
