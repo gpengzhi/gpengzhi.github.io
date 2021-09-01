@@ -30,6 +30,8 @@ R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynami
 
 **Conference Publications**
 ------
+J. Li, **P. Gao**, X. Wu, Y. Feng, Z. He, H. Wu, and H. Wang, "Mixup Decoding for Diverse Machine Translation." Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), November, 2021.
+
 R. Wang, T. Chen, Z. Xu, and **P. Gao**, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements." Proc. of Asilomar Conference on Signals, Systems, and Computers, November, 2021.
 
 Z. Liu, G. Ding, A. Bukkittu, M. Gupta, **P. Gao**, A. Ahmed, S. Zhang, X. Gao, S. Singhavi, L. Li, W. Wei, Z. Hu, H. Shi, X. Liang, T. Mitamura, E. P. Xing, and Z. Hu. "A Data-Centric Framework for Composable NLP Workflows." Proc. of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations, November, 2020.
