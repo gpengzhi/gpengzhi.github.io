@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Staff Research Engineer at [Baidu NLP](https://nlp.baidu.com/) working on machine learning and natural language processing. I was a Data Scientist at [Petuum, Inc.](http://www.petuum.com/) during 2018 - 2020. I got my Ph.D. in Electrical Engineering at [Rensselaer Polytechnic Institute (RPI)](http://rpi.edu/), Department of Electrical, Computer & Systems Engineering under  the supervision of [Prof. Meng Wang](https://ecse.rpi.edu/~wang/). I obtained my M.S. in Electrical Engineering at [University of Pennsylvania (Penn)](http://www.upenn.edu/), and received my B.S. (with honors) in Electronic and Information Engineering from [Xidian University](https://www.xidian.edu.cn/). 
+I am a Staff Research Engineer at [Baidu NLP](https://nlp.baidu.com/) working on Machine Learning, Signal Processing, and Natural Language Processing. I was a Data Scientist at [Petuum, Inc.](http://www.petuum.com/) during 2018 - 2020. I got my Ph.D. in Electrical Engineering at [Rensselaer Polytechnic Institute (RPI)](http://rpi.edu/), Department of Electrical, Computer & Systems Engineering under  the supervision of [Prof. Meng Wang](https://ecse.rpi.edu/~wang/). I obtained my M.S. in Electrical Engineering at [University of Pennsylvania (Penn)](http://www.upenn.edu/), and received my B.S. (with honors) in Electronic and Information Engineering from [Xidian University](https://www.xidian.edu.cn/). 
 
 
 **Contact**
