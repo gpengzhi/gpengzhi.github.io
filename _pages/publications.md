@@ -30,6 +30,8 @@ R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynami
 
 **Conference Publications**
 ------
+**P. Gao**, Z. He, H. Wu, and H. Wang, "Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation." Proc. of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), July, 2022.
+
 J. Li, **P. Gao**, X. Wu, Y. Feng, Z. He, H. Wu, and H. Wang, "Mixup Decoding for Diverse Machine Translation." Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), November, 2021.
 
 R. Wang, T. Chen, Z. Xu, and **P. Gao**, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements." Proc. of Asilomar Conference on Signals, Systems, and Computers, November, 2021.
