@@ -50,7 +50,7 @@ M. Wang, J. H. Chow, **P. Gao**, Y. Hao, W. Li, and R. Wang. "Recent Results of 
 
 **P. Gao**, M. Wang, and J. H. Chow. "Matrix Completion with Columns in Union and Sums of Subspaces." Proc. of IEEE Global Conference on Signal and Information Processing (GlobalSIP) 2015. Orlando, FL, Dec. 2015.
 
-M. Wang, J. H. Chow, **P. Gao**, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky. "A Low-Rank Matrix approach for the Analysis of Large Amounts of Synchrophasor Data." Proc. of Hawaii International Conference on System Sciences (**Runner-up for Best Paper in Electric Energy Systems Track**), Kauai, Hawaii, Jan. 2015.
+M. Wang, J. H. Chow, **P. Gao**, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky. "A Low-Rank Matrix Approach for the Analysis of Large Amounts of Power System Synchrophasor Data." Proc. of Hawaii International Conference on System Sciences (**Runner-up for Best Paper in Electric Energy Systems Track**), Kauai, Hawaii, Jan. 2015.
 
 M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of "Unobservable" Cyber Data Attacks on Power Grids." Proc. of IEEE SmartGridComm, Venice, Italy, Nov. 2014.
 
