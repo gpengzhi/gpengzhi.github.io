@@ -59,6 +59,7 @@ redirect_from:
     * IEEE Signal Processing Letters
     * Annals of Mathematics and Artificial Intelligence
     * The 29th International Conference on Computational Linguistics (COLING) 2022
+    * The 2022 China National Conference on Computational Linguistics (CCL) 2022
     * IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm) 2018
     * American Control Conference (ACC) 2017
     * Intelligent System Applications to Power Systems (ISAP) Conference 2017
