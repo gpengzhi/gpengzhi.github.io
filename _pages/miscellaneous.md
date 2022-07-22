@@ -8,7 +8,7 @@ author_profile: true
 **Travel**
 ------
 * U.S.A. States I have visited:
-<div  align="center">
+<div  align="left">
 <img src='/images/US_States.png' width='720' height='459'>
 </div>
 
