@@ -9,7 +9,7 @@ author_profile: true
 ------
 * U.S.A. States I have visited:
 <div  align="center">
-<img src='/images/US_States.png'>
+<img src='/images/US_States.png' width='720' height='459'>
 </div>
 
 **Ping Pong**
