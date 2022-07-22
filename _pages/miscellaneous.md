@@ -7,6 +7,8 @@ author_profile: true
 
 **Travel**
 ------
+* U.S.A. States I have visited:
+
 
 **Ping Pong**
 ------
