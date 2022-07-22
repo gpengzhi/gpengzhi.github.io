@@ -67,10 +67,6 @@ author_profile: true
 * Proficiency with Matlab, Python, DyNet, PyTorch, and TensorFlow
 * Experienced in Java, R, C/C++, and C#
 
-**Miscellaneous**
-------
-* Men's Singles Winner of 2018 Petuum Ping Pong Tournament.
-* Men's Doubles Winner of 2018 Petuum Ping Pong Tournament (with [Hong Wu](https://github.com/xunzhang)).
 
 <!--
 **Selected Courses**
