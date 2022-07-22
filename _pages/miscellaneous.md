@@ -8,7 +8,9 @@ author_profile: true
 **Travel**
 ------
 * U.S.A. States I have visited:
-
+<div  align="center">
+<img src='/images/US_States.png' width='450' height='150'>
+</div>
 
 **Ping Pong**
 ------
