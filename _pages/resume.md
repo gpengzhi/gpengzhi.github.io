@@ -8,7 +8,7 @@ author_profile: true
 [[Curriculum Vitae](http://gpengzhi.github.io/files/resume_en/resume_en.pdf)] [[中文简历](http://gpengzhi.github.io/files/resume_cn/resume-zh_CN.pdf)]
 
 **Research Interests**
-======
+------
 * Natural language processing, signal processing, high-dimensional statistics, and machine learning
 
 **Education**
