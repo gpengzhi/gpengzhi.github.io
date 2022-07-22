@@ -12,24 +12,24 @@ author_profile: true
 * Natural language processing, signal processing, high-dimensional statistics, and machine learning
 
 **Education**
-======
+------
 * 2013 - 2017: Rensselaer Polytechnic Institute, NY, USA. Ph.D. in Electrical Engineering.
 * 2011 - 2013: University of Pennsylvania, PA, USA. M.S. in Electrical Engineering.
 * 2007 - 2011: Xidian University, China. B.S. in Electronic and Information Engineering (Class Rank: 1/114).
 
 **Work Experience**
-======
+------
 * 2020 - present:        Baidu Inc., Staff Research Engineer.
 * 2018 - 2020:        Petuum, Inc., Data Scientist / Machine Learning Engineer.
 * 2010 - 2011:        Microsoft Research Asia, Research Intern.
 
 **Research Experience**
-======
+------
 * 2013 - 2017:        Rensselaer Polytechnic Institute, Research Assistant.
 * 2012 - 2013:        University of Pennsylvania, Research Assistant.
 
 **Awards**
-======
+------
 * North America Finalist of IBM Watson Build Challenge, 2017.
 * Paper selected as the runner-up for Best Paper in Electric Energy Systems Track in Proc. of Hawaii International Conference on System Sciences, 2015.
 * Founders Award of Excellence (top 1%), 2015.
@@ -40,7 +40,7 @@ author_profile: true
 * Excellent Student Award (top 1%), 2008.
 
 **Professional Activities & Service**
-======
+------
 * Student Member of IEEE, 2013 - 2017. Member of IEEE, 2018 - Now.
 * RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT), 2015 - 2016.
 * Teaching Assistant: 
@@ -63,12 +63,12 @@ author_profile: true
     * Intelligent System Applications to Power Systems (ISAP) Conference
 
 **Skills**
-======
+------
 * Proficiency with Matlab, Python, DyNet, PyTorch, and TensorFlow
 * Experienced in Java, R, C/C++, and C#
 
 **Miscellaneous**
-======
+------
 * Men's Singles Winner of 2018 Petuum Ping Pong Tournament.
 * Men's Doubles Winner of 2018 Petuum Ping Pong Tournament (with [Hong Wu](https://github.com/xunzhang)).
 
