@@ -47,7 +47,8 @@ author_profile: true
     * Modeling and Analysis of Uncertainty (Fall 2017)
     * Distributed Systems and Sensor Networks (Fall 2017)
 * Program Committee Member:
-    * Conference on Uncertainty in Artificial Intelligence (UAI) 2018
+    * Conference on Uncertainty in Artificial Intelligence (UAI)
+    * The Annual Meeting of the Association for Computational Linguistics (ACL)
 * Reviewer:
     * IEEE Transactions on Signal Processing
     * IEEE Transactions on Smart Grid
