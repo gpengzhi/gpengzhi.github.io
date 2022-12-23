@@ -49,6 +49,7 @@ author_profile: true
 * Program Committee Member:
     * Conference on Uncertainty in Artificial Intelligence (UAI)
     * The Annual Meeting of the Association for Computational Linguistics (ACL)
+    * The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 * Reviewer:
     * IEEE Transactions on Signal Processing
     * IEEE Transactions on Smart Grid
