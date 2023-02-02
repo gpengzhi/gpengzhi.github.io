@@ -67,7 +67,7 @@ author_profile: true
     * The China National Conference on Computational Linguistics (CCL)
     * IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)
     * American Control Conference (ACC)
-    * Intelligent System Applications to Power Systems (ISAP) Conference
+    * Intelligent System Applications to Power Systems Conference (ISAP)
 
 **Skills**
 ------
