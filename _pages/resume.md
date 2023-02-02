@@ -39,6 +39,11 @@ author_profile: true
 * First prize of the College Academic and Technological Scholarship (top 2%), 2008, 2009, 2010.
 * Excellent Student Award (top 1%), 2008.
 
+**Research Interns/Students Mentored**
+------
+* Jicheng Li, Institute of Computing Technology, Chinese Academy of Sciences, 2021.
+* Xuanfu Wu, Institute of Computing Technology, Chinese Academy of Sciences, 2021 & 2022.
+
 **Professional Activities & Service**
 ------
 * Student Member of IEEE, 2013 - 2017. Member of IEEE, 2018 - Now.
