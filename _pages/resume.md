@@ -35,7 +35,7 @@ author_profile: true
 * Founders Award of Excellence (top 1%), 2015.
 * Paper selected as one of the Best Conference Papers on Power System Analysis and Modeling of IEEE Power & Energy Society General Meeting, 2014.
 * Excellent Graduate of Xidian University (top 1%), 2011.
-* National Scholarship (top 1%), 2010.
+* National Scholarship (top 0.2% nationwide), 2010.
 * First prize of the College Academic and Technological Scholarship (top 2%), 2008, 2009, 2010.
 * Excellent Student Award (top 1%), 2008.
 
