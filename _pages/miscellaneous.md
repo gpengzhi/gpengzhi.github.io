@@ -7,7 +7,7 @@ author_profile: true
 
 **Academic Countdown**
 ------
-* Wake Up, Go to Work
+* [Wake Up, Go to Work](https://aideadlin.es/?sub=ML,NLP,SP)
 
 **Travel**
 ------
