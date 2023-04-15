@@ -58,4 +58,6 @@ M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, an
 
 **Patents**
 ------
-M. Wang, **P. Gao**, and J. H. Chow. "A low-rank-based missing PMU data recovery method." Application No.: 62/445305, Filed January 12, 2017.
+**P. Gao**, Z. He, Z. Li, and H. Wu. "Method of Training Deep Learning Model and Method of Processing Text Data." Application No.: 18/059389, 2023.
+
+M. Wang, **P. Gao**, and J. H. Chow. "A low-rank-based missing PMU data recovery method." Application No.: 62/445305, 2017.
