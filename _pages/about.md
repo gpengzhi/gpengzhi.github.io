@@ -24,4 +24,4 @@ Welcome! You're the <a href='https://www.counter12.com'><img src='https://www.co
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DU6pVGEgqlXN2oQ09MeLp-Qp_rew6BgKnf2wgQSxl_E&cl=ffffff&w=a"></script>
 
-Last Update: September, 8<sup>th</sup>, 2021.
+Last Update: April, 15<sup>th</sup>, 2023.
