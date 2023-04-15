@@ -5,6 +5,10 @@ title: "Miscellaneous"
 author_profile: true
 ---
 
+**Academic Countdown**
+------
+* Wake Up, Go to Work
+
 **Travel**
 ------
 * U.S.A. States I have visited:
