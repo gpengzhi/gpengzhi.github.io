@@ -63,4 +63,4 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 ------
 **P. Gao**, Z. He, Z. Li, and H. Wu. "Method of Training Deep Learning Model and Method of Processing Text Data." Application No.: 18/059389, 2023.
 
-M. Wang, **P. Gao**, and J. H. Chow. "A low-rank-based missing PMU data recovery method." Application No.: 62/445305, 2017.
+M. Wang, **P. Gao**, and J. H. Chow. "A Low-rank-based Missing PMU Data Recovery Method." Application No.: 62/445305, 2017.
