@@ -65,6 +65,7 @@ author_profile: true
     * IEEE Signal Processing Letters
     * Annals of Mathematics and Artificial Intelligence
     * The International Conference on Computational Linguistics (COLING)
+    * The China National Conference on Computational Linguistics (CCL)
     * IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)
     * American Control Conference (ACC)
     * Intelligent System Applications to Power Systems Conference (ISAP)
