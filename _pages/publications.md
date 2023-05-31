@@ -27,15 +27,15 @@ R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynami
 
 **Conference Publications**
 ------
-**P. Gao**, L. Zhang, Z. He, H. Wu, and H. Wang, "Improving Zero-shot Multilingual Neural Machine Translation by Leveraging Cross-lingual Consistency Regularization." Findings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL), July, 2023.
+**P. Gao**, L. Zhang, Z. He, H. Wu, and H. Wang, "Improving Zero-shot Multilingual Neural Machine Translation by Leveraging Cross-lingual Consistency Regularization." Findings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL), July, 2023. [[Code](https://github.com/gpengzhi/CrossConST-MT)]
 
-**P. Gao**, Z. He, H. Wu, and H. Wang, "Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation." Proc. of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), July, 2022. [[Code]()]
+**P. Gao**, Z. He, H. Wu, and H. Wang, "Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation." Proc. of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), July, 2022. [[Code](https://github.com/gpengzhi/Bi-SimCut)]
 
 J. Li, **P. Gao**, X. Wu, Y. Feng, Z. He, H. Wu, and H. Wang, "Mixup Decoding for Diverse Machine Translation." Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), November, 2021.
 
 R. Wang, T. Chen, Z. Xu, and **P. Gao**, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements." Proc. of Asilomar Conference on Signals, Systems, and Computers, November, 2021.
 
-Z. Liu, G. Ding, A. Bukkittu, M. Gupta, **P. Gao**, A. Ahmed, S. Zhang, X. Gao, S. Singhavi, L. Li, W. Wei, Z. Hu, H. Shi, X. Liang, T. Mitamura, E. P. Xing, and Z. Hu. "A Data-Centric Framework for Composable NLP Workflows." Proc. of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations, November, 2020.
+Z. Liu, G. Ding, A. Bukkittu, M. Gupta, **P. Gao**, A. Ahmed, S. Zhang, X. Gao, S. Singhavi, L. Li, W. Wei, Z. Hu, H. Shi, X. Liang, T. Mitamura, E. P. Xing, and Z. Hu. "A Data-Centric Framework for Composable NLP Workflows." Proc. of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations, November, 2020. [[Code](https://github.com/asyml/forte)]
 
 M. Wang, J. H. Chow, Y. Hao, S. Zhang, W. Li, R. Wang, **P. Gao**, C. Lackner, E. Farantatos, and M. Patel. "A Low-rank Framework of PMU Data Recovery and Event Identification." Proc. of the First IEEE International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), College Station, Texas, May, 2019. 
 
@@ -58,7 +58,7 @@ M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, an
 
 **Technical Reports**
 ------
-Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch." [[Blog](https://medium.com/@Petuum/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch-ea6e5f8e65a3)] [[Blog (in Chinese)](https://www.jiqizhixin.com/articles/2019-10-30-12)], 2019.
+Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch." [[Blog](https://medium.com/@Petuum/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch-ea6e5f8e65a3)] [[Blog (in Chinese)](https://www.jiqizhixin.com/articles/2019-10-30-12)], 2019. [[Code](https://github.com/asyml/texar-pytorch)]
 
 
 **Patents**
