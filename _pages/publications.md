@@ -16,6 +16,7 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 ------
 **P. Gao**, L. Zhang, Z. He, H. Wu, and H. Wang, "Learning Multilingual Sentence Representations with Cross-lingual Consistency Regularization." arXiv preprint arXiv:2306.06919, 2023. [[Code](https://github.com/gpengzhi/CrossConST-SR)]
 
+
 **Journal Publications**
 ------
 R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." submitted to EURASIP Journal on Advances in Signal Processing, 2021. (The first two authors contributed equally to this paper)
