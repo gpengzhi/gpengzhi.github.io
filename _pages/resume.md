@@ -64,6 +64,7 @@ author_profile: true
     * IEEE/ACM Transactions on Networking
     * IEEE Signal Processing Letters
     * Annals of Mathematics and Artificial Intelligence
+    * The Conference on Neural Information Processing Systems (NeurIPS)
     * The Conference on Empirical Methods in Natural Language Processing (EMNLP)
     * The International Conference on Computational Linguistics (COLING)
     * The China National Conference on Computational Linguistics (CCL)
