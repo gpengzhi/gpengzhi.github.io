@@ -46,7 +46,6 @@ author_profile: true
 
 **Professional Activities & Service**
 ------
-* Student Member of IEEE, 2013 - 2017. Member of IEEE, 2018 - Now. Member of ACL, 2021 - Now.
 * Program Committee Member:
     * Conference on Uncertainty in Artificial Intelligence (UAI)
     * The Annual Meeting of the Association for Computational Linguistics (ACL)
@@ -75,6 +74,7 @@ author_profile: true
 
 
 <!--
+* Student Member of IEEE, 2013 - 2017. Member of IEEE, 2018 - Now. Member of ACL, 2021 - Now.
 * RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT), 2015 - 2016.
 * Teaching Assistant: 
     * Modeling and Analysis of Uncertainty (Fall 2017)
