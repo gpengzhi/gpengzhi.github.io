@@ -49,6 +49,7 @@ author_profile: true
 * Program Committee Member:
     * Conference on Uncertainty in Artificial Intelligence (UAI)
     * The Annual Meeting of the Association for Computational Linguistics (ACL)
+    * The Conference on Empirical Methods in Natural Language Processing (EMNLP) Industry Track
     * The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
     * The China National Conference on Computational Linguistics (CCL)
 * Reviewer:
