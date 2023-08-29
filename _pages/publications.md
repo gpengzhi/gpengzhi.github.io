@@ -14,6 +14,8 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 
 **Preprints**
 ------
+**P. Gao**, R. Zhang, Z. He, H. Wu, and H. Wang, "An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation." arXiv preprint arXiv:2308.14482, 2023. [[Code](https://github.com/gpengzhi/SimCR)]
+
 **P. Gao**, L. Zhang, Z. He, H. Wu, and H. Wang, "Learning Multilingual Sentence Representations with Cross-lingual Consistency Regularization." arXiv preprint arXiv:2306.06919, 2023. [[Code](https://github.com/gpengzhi/CrossConST-SR)]
 
 
