@@ -52,6 +52,7 @@ author_profile: true
     * The Conference on Empirical Methods in Natural Language Processing (EMNLP) Industry Track
     * The Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)
     * The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+    * SIAM International Conference on Data Mining (SDM)
     * The China National Conference on Computational Linguistics (CCL)
 * Reviewer:
     * IEEE Transactions on Signal Processing
