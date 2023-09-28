@@ -63,7 +63,11 @@ author_profile: true
     * IEEE Signal Processing Letters
     * Annals of Mathematics and Artificial Intelligence
     * The Conference on Neural Information Processing Systems (NeurIPS)
+    * The Association for Computational Linguistics Rolling Review (ACL ARR)
+    * The Annual Meeting of the Association for Computational Linguistics (ACL)
     * The Conference on Empirical Methods in Natural Language Processing (EMNLP)
+    * The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)
+    * The Conference of the European Chapter of the Association for Computational Linguistics (EACL)
     * The International Conference on Computational Linguistics (COLING)
     * The China National Conference on Computational Linguistics (CCL)
     * IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)
