@@ -16,8 +16,6 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 ------
 **P. Gao**, R. Zhang, Z. He, H. Wu, and H. Wang, "An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation." arXiv preprint arXiv:2308.14482, 2023. [[Code](https://github.com/gpengzhi/SimCR)]
 
-**P. Gao**, L. Zhang, Z. He, H. Wu, and H. Wang, "Learning Multilingual Sentence Representations with Cross-lingual Consistency Regularization." arXiv preprint arXiv:2306.06919, 2023. [[Code](https://github.com/gpengzhi/CrossConST-SR)]
-
 
 **Journal Publications**
 ------
@@ -34,6 +32,8 @@ R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynami
 
 **Conference Publications**
 ------
+**P. Gao**, L. Zhang, Z. He, H. Wu, and H. Wang, "Learning Multilingual Sentence Representations with Cross-lingual Consistency Regularization." Proc. of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track, December, 2023. [[Code](https://github.com/gpengzhi/CrossConST-SR)]
+
 **P. Gao**, L. Zhang, Z. He, H. Wu, and H. Wang, "Improving Zero-shot Multilingual Neural Machine Translation by Leveraging Cross-lingual Consistency Regularization." Findings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL), July, 2023. [[Code](https://github.com/gpengzhi/CrossConST-MT)]
 
 **P. Gao**, Z. He, H. Wu, and H. Wang, "Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation." Proc. of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), July, 2022. [[Code](https://github.com/gpengzhi/Bi-SimCut)]
