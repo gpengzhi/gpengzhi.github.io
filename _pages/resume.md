@@ -56,6 +56,7 @@ author_profile: true
     * The China National Conference on Computational Linguistics (CCL)
 * Reviewer:
     * IEEE Transactions on Signal Processing
+    * IEEE Transactions on Audio, Speech and Language Processing
     * IEEE Transactions on Smart Grid
     * IEEE Transactions on Automatic Control
     * IEEE Transactions on Power Delivery
