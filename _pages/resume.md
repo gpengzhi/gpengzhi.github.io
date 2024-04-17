@@ -54,7 +54,7 @@ author_profile: true
     * The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
     * SIAM International Conference on Data Mining (SDM)
     * The China National Conference on Computational Linguistics (CCL)
-* Reviewer:
+* Journal Reviewer:
     * IEEE Transactions on Signal Processing
     * IEEE Transactions on Audio, Speech and Language Processing
     * IEEE Transactions on Smart Grid
@@ -64,6 +64,7 @@ author_profile: true
     * IEEE Signal Processing Letters
     * Annals of Mathematics and Artificial Intelligence
     * Journal of Data-centric Machine Learning Research (DMLR)
+* Conference Reviewer:
     * The Conference on Neural Information Processing Systems (NeurIPS)
     * The Association for Computational Linguistics Rolling Review (ACL ARR)
     * The Annual Meeting of the Association for Computational Linguistics (ACL)
