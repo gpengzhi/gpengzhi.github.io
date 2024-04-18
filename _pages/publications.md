@@ -16,10 +16,11 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 ------
 **P. Gao**, Z. He, H. Wu, and H. Wang, "Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models." arXiv preprint arXiv:2401.05861, 2024. [[Code](https://github.com/gpengzhi/CrossConST-LLM)]
 
+R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." DOI: 10.21203/rs.3.rs-420556/v1, 2021. (The first two authors contributed equally to this paper)
+
 
 **Journal Publications**
 ------
-R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." submitted to EURASIP Journal on Advances in Signal Processing, 2021. (The first two authors contributed equally to this paper)
 
 **P. Gao**, R. Wang, M. Wang, and J. H. Chow. "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." IEEE Trans. Signal Processing, 2018, 66 (11): 2918-2932. (The first two authors contributed equally to this paper)
 
