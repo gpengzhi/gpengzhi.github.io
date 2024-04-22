@@ -12,11 +12,13 @@ High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applica
 Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https://www.ecse.rpi.edu/~chowj/), [Birsen Yazici](https://www.ecse.rpi.edu/~yazici/), and [John E. Mitchell](http://homepages.rpi.edu/~mitchj/).
 
 
-**Preprints**
+**Preprints & Technical Reports**
 ------
 **P. Gao**, Z. He, H. Wu, and H. Wang, "Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models." arXiv preprint arXiv:2401.05861, 2024. [[Code](https://github.com/gpengzhi/CrossConST-LLM)]
 
 R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." DOI: 10.21203/rs.3.rs-420556/v1, 2021. (The first two authors contributed equally to this paper)
+
+Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch.", 2019. [[Blog](https://medium.com/@Petuum/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch-ea6e5f8e65a3)] [[Blog (in Chinese)](https://www.jiqizhixin.com/articles/2019-10-30-12)] [[Code](https://github.com/asyml/texar-pytorch)]
 
 
 **Journal Publications**
@@ -64,11 +66,6 @@ M. Wang, J. H. Chow, **P. Gao**, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanes
 M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of "Unobservable" Cyber Data Attacks on Power Grids." Proc. of IEEE SmartGridComm, Venice, Italy, Nov. 2014.
 
 **P. Gao**, M. Wang, S. G. Ghiocel, and J. H. Chow. "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (**Best Conference Papers on Power System Analysis and Modeling**), Washington, DC, July 2014.
-
-
-**Technical Reports**
-------
-Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch.", 2019. [[Blog](https://medium.com/@Petuum/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch-ea6e5f8e65a3)] [[Blog (in Chinese)](https://www.jiqizhixin.com/articles/2019-10-30-12)] [[Code](https://github.com/asyml/texar-pytorch)]
 
 
 **Patents**
