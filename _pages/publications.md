@@ -68,8 +68,10 @@ M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, an
 **P. Gao**, M. Wang, S. G. Ghiocel, and J. H. Chow. "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (**Best Conference Papers on Power System Analysis and Modeling**), Washington, DC, July 2014.
 
 
+<!--
 **Patents**
 ------
 **P. Gao**, Z. He, Z. Li, and H. Wu. "Method of Training Deep Learning Model and Method of Processing Text Data." Application No.: 18/059389, 2023.
 
 M. Wang, **P. Gao**, and J. H. Chow. "A Low-rank-based Missing PMU Data Recovery Method." Application No.: 62/445305, 2017.
+-->
