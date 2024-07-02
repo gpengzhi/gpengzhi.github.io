@@ -15,8 +15,8 @@ I am currently a Research Engineer working on Multilingual Large Language Models
 ------
 Chinese name: 高鹏至  
 Email: gpengzhi (you can make the "at") gmail (dot) com  
-Baidu Technology Park Building No.1, No.10 Xibeiwang East Road  
-Haidian District, Beijing, China 100193
+Xiaomi Campus, Anningzhuang Road  
+Haidian District, Beijing, China 100085
 
 ---
 
