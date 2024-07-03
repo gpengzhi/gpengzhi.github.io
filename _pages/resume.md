@@ -19,8 +19,9 @@ author_profile: true
 
 **Work Experience**
 ------
-* 2020 - present:        Baidu Inc., Staff Research Engineer.
-* 2018 - 2020:        Petuum, Inc., Data Scientist / Machine Learning Engineer.
+* 2024 - present:        Xiaomi Inc., Research Engineer.
+* 2020 - 2024:        Baidu Inc., Research Engineer.
+* 2018 - 2020:        Petuum Inc., Data Scientist / Machine Learning Engineer.
 * 2010 - 2011:        Microsoft Research Asia, Research Intern.
 
 **Research Experience**
