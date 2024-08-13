@@ -50,6 +50,7 @@ author_profile: true
 ------
 * Program Committee Member:
     * Conference on Uncertainty in Artificial Intelligence (UAI)
+    * The Annual AAAI Conference on Artificial Intelligence (AAAI)
     * The Annual Meeting of the Association for Computational Linguistics (ACL)
     * The Conference on Empirical Methods in Natural Language Processing (EMNLP) Industry Track
     * The Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)
