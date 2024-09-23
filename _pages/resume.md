@@ -83,6 +83,7 @@ author_profile: true
     * IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)
     * American Control Conference (ACC)
     * Intelligent System Applications to Power Systems Conference (ISAP)
+    * International Conference on Intelligent Multilingual Information Processing (IMLIP)
 
 **Skills**
 ------
