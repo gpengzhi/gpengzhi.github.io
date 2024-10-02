@@ -14,7 +14,6 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 
 **Preprints & Technical Reports**
 ------
-M. Sun, W. Liu, J. Luan, **P. Gao**, and B. Wang, "Mixture of Diverse Size Experts." arXiv preprint arXiv:2409.12210, 2024.
 
 **P. Gao**, Z. He, H. Wu, and H. Wang, "Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models." arXiv preprint arXiv:2401.05861, 2024. [[Code](https://github.com/gpengzhi/CrossConST-LLM)]
 
@@ -37,6 +36,9 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 
 **Conference Publications**
 ------
+
+M. Sun, W. Liu, J. Luan, **P. Gao**, and B. Wang, "Mixture of Diverse Size Experts." Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track, November, 2024.
+
 J. Du, Y. Wang, W. Zhao, Z. Deng, S. Liu, R. Lou, H. P. Zou, P. N. Venkit, N. Zhang, M. Srinath, H. R. Zhang, V. Gupta, Y. Li, T. Li, F. Wang, Q. Liu, T. Liu, **P. Gao**, C. Xia, C. Xing, J. Cheng, Z. Wang, Y. Su, R. S. Shah, R. Guo, J. Gu, H. Li, K. Wei, Z. Wang, L. Cheng, S. Ranathunga, M. Fang, J. Fu, F. Liu, R. Huang, E. Blanco, Y. Cao, R. Zhang, P. S. Yu, and W. Yin, "LLMs assist NLP Researchers: Critique Paper (Meta-)Reviewing." Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), November, 2024.
 
 **P. Gao**, R. Zhang, Z. He, H. Wu, and H. Wang, "An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation." Proc. of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), June, 2024. [[Code](https://github.com/gpengzhi/SimCR)]
