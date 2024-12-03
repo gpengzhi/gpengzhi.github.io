@@ -42,6 +42,7 @@ author_profile: true
 
 **Research Interns / Students Mentored**
 ------
+* Yuzhe Shang, Xiamen University, 2024.
 * Menglong Cui, Tianjin University, 2024.
 * Xuanfu Wu, Institute of Computing Technology, Chinese Academy of Sciences, 2021 & 2022.
 * Jicheng Li, Institute of Computing Technology, Chinese Academy of Sciences, 2021.
