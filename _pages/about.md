@@ -18,7 +18,7 @@ I am currently a Senior Algorithm Engineer working on Multilingual Large Languag
 ------
 Chinese name: 高鹏至  
 Email: gpengzhi (you can make the "at") gmail (dot) com  
-Xiaomi Campus, Anningzhuang Road  
+Xiaomi Campus, No.33 Xierqi Middle Road  
 Haidian District, Beijing, China 100085
 
 ---
