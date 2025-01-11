@@ -28,7 +28,9 @@ author_profile: true
 <div  align="center">
 <img src='/images/dynet_logo_bg.png'>
 </div>
- 
+
+<!--
+
 **IBM Watson Build Challenge 2017**
 ------
 We developed a web application with IBM Watson APIs (Retrieve and Rank) based on IBM Bluemix and implemented multiple missing data recovery and event identification algorithms by Python for large scale Phasor Measurement Unit (PMU) data analysis.
@@ -36,6 +38,8 @@ We developed a web application with IBM Watson APIs (Retrieve and Rank) based on
 <div  align="center">
 <img src='/images/Watson.png' width='500' height='300'>
 </div>
+
+-->
 
 **Online Algorithm for PMU Data Processing (OLAP)**
 ------
