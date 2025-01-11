@@ -65,6 +65,8 @@ We implemented a neural-style algorithm [R1] that takes three images, a content 
 
 [R1] Leon A. Gatys, Alexander S. Ecker, Matthias Bethge. A Neural Algorithm of Artistic Style.
 
+<!--
+
 **Mobile Eye Gaze Estimation with Deep Learning**
 ------
 We implemented a deep convolutional neural network based on TensorFlow for eye gaze estimation. In this project, we focus on mobile eye gaze estimation, which is to predict the gaze position on the phone/tablet screen. The original dataset comes from the [GazeCapture project](http://gazecapture.csail.mit.edu/). Due to the limitation of the computing power, we trained our model on a much smaller dataset with 48000 trainning samples and 5000 validation samples. Each sample contains 5 items: face (64 X 64 X 3), left eye (64 X 64 X 3), right eye (64 X 64 X 3), face mask (25 X 25 X 1) and labels (x,y). Our model follows the architecture introduced in [R1], and we changed and tuned the hyper parameters (listed below) due to the different image size in our trainning dataset.
@@ -90,6 +92,8 @@ We implemented a deep convolutional neural network based on TensorFlow for eye g
 | fc2   | Fully Connected |           |        |         | 2        |
 
 [R1] K.Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik, and A. Torralba. Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+
+-->
 
 <!-- 
 **Twitter Sentiment Analysis with Recurrent Neural Networks**
