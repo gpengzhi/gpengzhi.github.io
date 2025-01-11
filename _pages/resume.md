@@ -24,10 +24,14 @@ author_profile: true
 * 2018 - 2020:        Petuum Inc., Data Scientist / Machine Learning Engineer.
 * 2010 - 2011:        Microsoft Research Asia, Research Intern.
 
+<!--
+
 **Research Experience**
 ------
 * 2013 - 2017:        Rensselaer Polytechnic Institute, Research Assistant.
 * 2012 - 2013:        University of Pennsylvania, Research Assistant.
+
+-->
 
 **Awards**
 ------
