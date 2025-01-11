@@ -33,6 +33,8 @@ author_profile: true
 
 -->
 
+<!--
+
 **Awards**
 ------
 * North America Finalist of IBM Watson Build Challenge, 2017.
@@ -43,6 +45,8 @@ author_profile: true
 * National Scholarship (top 0.2% nationwide), 2010.
 * First prize of the College Academic and Technological Scholarship (top 2%), 2008, 2009, 2010.
 * Excellent Student Award (top 1%), 2008.
+
+-->
 
 **Research Interns / Students Mentored**
 ------
