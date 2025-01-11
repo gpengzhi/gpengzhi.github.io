@@ -51,8 +51,6 @@ author_profile: true
 **Research Interns / Students Mentored**
 ------
 * Lai Wei, Huazhong University of Science and Technology, 2024 & 2025.
-* Weikai Xu, University of Electronic Science and Technology of China, 2024 & 2025.
-* Yuxuan Liu, Renmin University of China, 2024 & 2025.
 * Changyu Chen, Renmin University of China, 2024 & 2025.
 * Yuzhe Shang, Xiamen University, 2024 & 2025.
 * Menglong Cui, Tianjin University, 2024 & 2025.
