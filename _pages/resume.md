@@ -9,7 +9,7 @@ author_profile: true
 
 **Research Interests**
 ------
-* Natural language processing, signal processing, high-dimensional statistics, and machine learning
+* Natural language processing, signal processing, and high-dimensional statistics
 
 **Education**
 ------
@@ -90,11 +90,14 @@ author_profile: true
     * Intelligent System Applications to Power Systems Conference (ISAP)
     * International Conference on Intelligent Multilingual Information Processing (IMLIP)
 
+<!--
+
 **Skills**
 ------
 * Proficiency with Matlab, Python, DyNet, PyTorch, and TensorFlow
 * Experienced in Java, R, C/C++, and C#
 
+-->
 
 <!--
 * Student Member of IEEE, 2013 - 2017. Member of IEEE, 2018 - Now. Member of ACL, 2021 - Now.
