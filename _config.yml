@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pengzhi Gao"
 title_separator          : "-"
 name                     : &name "Pengzhi Gao"
-description              : &description "Research Engineer & Tech Lead Manager at Xiaomi Inc."
+description              : &description "Research Engineer at Xiaomi Inc."
 url                      : https://gpengzhi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gpengzhi/gpengzhi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pengzhi Gao"
   avatar           : "profile.jpg"
-  bio              : "Research Engineer & Tech Lead Manager at Xiaomi Inc."
+  bio              : "Research Engineer at Xiaomi Inc."
   location         : "Beijing, China"
   employer         :
   pubmed           :
