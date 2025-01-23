@@ -37,7 +37,7 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 **Conference Publications**
 ------
 
-M. Cui, **P. Gao**, W. Liu, J. Luan, and B. Wang, "Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study." Proc. of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), May, 2025. (The first two authors contributed equally to this paper)
+M. Cui, **P. Gao**, W. Liu, J. Luan, and B. Wang, "Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study." Proc. of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), May, 2025. (The first two authors contributed equally to this paper)
 
 M. Sun, W. Liu, J. Luan, **P. Gao**, and B. Wang, "Mixture of Diverse Size Experts." Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track, November, 2024.
 
