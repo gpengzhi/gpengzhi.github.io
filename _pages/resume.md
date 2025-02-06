@@ -59,15 +59,6 @@ author_profile: true
 
 **Professional Activities & Service**
 ------
-* Program Committee Member:
-    * Conference on Uncertainty in Artificial Intelligence (UAI)
-    * The Annual AAAI Conference on Artificial Intelligence (AAAI)
-    * The Annual Meeting of the Association for Computational Linguistics (ACL)
-    * The Conference on Empirical Methods in Natural Language Processing (EMNLP) Industry Track
-    * The Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)
-    * The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
-    * SIAM International Conference on Data Mining (SDM)
-    * The China National Conference on Computational Linguistics (CCL)
 * Area Chair:
     * The Association for Computational Linguistics Rolling Review (ACL ARR)
 * Journal Reviewer:
@@ -80,7 +71,9 @@ author_profile: true
     * IEEE Signal Processing Letters
     * Annals of Mathematics and Artificial Intelligence
     * Journal of Data-centric Machine Learning Research (DMLR)
-* Conference Reviewer:
+* Program Committee Member / Conference Reviewer:
+    * Conference on Uncertainty in Artificial Intelligence (UAI)
+    * The Annual AAAI Conference on Artificial Intelligence (AAAI)
     * The Conference on Neural Information Processing Systems (NeurIPS)
     * The International Conference on Learning Representations (ICLR)
     * The Association for Computational Linguistics Rolling Review (ACL ARR)
@@ -91,6 +84,7 @@ author_profile: true
     * The International Conference on Computational Linguistics (COLING)
     * The China National Conference on Computational Linguistics (CCL)
     * The CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC)
+    * SIAM International Conference on Data Mining (SDM)
     * The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
     * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
     * IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)
