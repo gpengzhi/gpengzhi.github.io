@@ -68,6 +68,8 @@ author_profile: true
     * The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
     * SIAM International Conference on Data Mining (SDM)
     * The China National Conference on Computational Linguistics (CCL)
+* Area Chair:
+    * The Association for Computational Linguistics Rolling Review (ACL ARR)
 * Journal Reviewer:
     * IEEE Transactions on Signal Processing
     * IEEE Transactions on Audio, Speech and Language Processing
