@@ -87,6 +87,7 @@ author_profile: true
     * SIAM International Conference on Data Mining (SDM)
     * The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
     * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+    * IEEE/CVF International Conference on Computer Vision (ICCV) 
     * IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)
     * American Control Conference (ACC)
     * Intelligent System Applications to Power Systems Conference (ISAP)
