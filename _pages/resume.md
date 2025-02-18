@@ -82,6 +82,7 @@ author_profile: true
     * The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)
     * The Conference of the European Chapter of the Association for Computational Linguistics (EACL)
     * The International Conference on Computational Linguistics (COLING)
+    * The Conference on Language Modeling (COLM)
     * The China National Conference on Computational Linguistics (CCL)
     * The CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC)
     * SIAM International Conference on Data Mining (SDM)
