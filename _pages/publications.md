@@ -15,7 +15,7 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 **Preprints & Technical Reports**
 ------
 
-Q. Wu, **P. Gao**, W. Liu, and J. Luan, "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism" arXiv preprint arXiv:2505.20660, 2025.
+Q. Wu, **P. Gao**, W. Liu, and J. Luan, "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism." arXiv preprint arXiv:2505.20660, 2025.
 
 W. Xu, Z. Jiang, Y. Liu, **P. Gao**, W. Liu, J. Luan, Y. Li, Y. Liu, B. Wang, and B. An, "Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents." arXiv preprint arXiv:2505.11891, 2025.
 
