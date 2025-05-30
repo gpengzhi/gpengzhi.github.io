@@ -50,6 +50,7 @@ author_profile: true
 
 **Research Interns / Students Mentored**
 ------
+* Renren Jin, Tianjin University, 2025.
 * Changyu Chen, Renmin University of China, 2024 & 2025.
 * Yuzhe Shang, Xiamen University, 2024 & 2025.
 * Menglong Cui, Tianjin University, 2024 & 2025.
