@@ -7,6 +7,7 @@ author_profile: true
 
 **GemmaX: Multilingual Translator based on Gemma Open Models**
 ------
+[GemmaX](https://github.com/xiaomi-research/gemmax) are many-to-many LLM-based multilingual translation models, which adopt multilingual continual pretraining with Parallel-First Monolingual-Second (PFMS) data mixing strategy and instruction finetuning with high-quality translation prompts.
 
 
 **Forte: Composing Diverse NLP Tools for Text Retrieval, Analysis and Generation**
