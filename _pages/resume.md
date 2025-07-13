@@ -78,7 +78,7 @@ author_profile: true
     * Annals of Mathematics and Artificial Intelligence
     * Journal of Data-centric Machine Learning Research (DMLR)
 * Program Committee Member / Conference Reviewer:
-    * Conference on Uncertainty in Artificial Intelligence (UAI)
+    * The Conference on Uncertainty in Artificial Intelligence (UAI)
     * The Annual AAAI Conference on Artificial Intelligence (AAAI)
     * The Conference on Neural Information Processing Systems (NeurIPS)
     * The International Conference on Learning Representations (ICLR)
