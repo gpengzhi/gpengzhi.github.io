@@ -67,6 +67,8 @@ Patent: Meng Wang, Pengzhi Gao, and Joe H. Chow. "A low-rank-based missing PMU d
 
 -->
 
+<!--
+
 **Neural Style Transfer**
 ------
 We implemented a neural-style algorithm [R1] that takes three images, a content image, a style image, and the input image you want to style. The key idea is to define two loss functions as follows. $L_{content}$ computes how different the content of two images are. $L_{style}$ computes the difference between two images in terms of their style. Then, we will transform the input image by minimizing the content and style losses with backpropagation and create an image that matches the content of the content image and the style of the style image.
@@ -80,6 +82,8 @@ We implemented a neural-style algorithm [R1] that takes three images, a content 
 </div>
 
 [R1] Leon A. Gatys, Alexander S. Ecker, Matthias Bethge. A Neural Algorithm of Artistic Style.
+
+-->
 
 <!--
 
