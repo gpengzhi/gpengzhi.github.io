@@ -54,6 +54,8 @@ author_profile: true
 
 **Research Interns / Students Mentored**
 ------
+* Wenzong Zhang, Beijing Institute of Technology, 2025.
+* Longxi Gao, Beijing University of Posts and Telecommunications, 2025.
 * Renren Jin, Tianjin University, 2025.
 * Changyu Chen, Renmin University of China, 2024 & 2025.
 * Yuzhe Shang, Xiamen University, 2024 & 2025.
