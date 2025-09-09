@@ -15,8 +15,6 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 **Preprints & Technical Reports**
 ------
 
-G. Liu, J. Ye, J. Liu, Y. Li, W. Liu, **P. Gao**, J. Luan, and Y. Liu, "Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties." arXiv preprint arXiv:2507.04227, 2025.
-
 W. Xu, Z. Jiang, Y. Liu, **P. Gao**, W. Liu, J. Luan, Y. Li, Y. Liu, B. Wang, and B. An, "Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents." arXiv preprint arXiv:2505.11891, 2025.
 
 K. Huang, W. Xu, Y. Liu, Q. Wang, **P. Gao**, W. Liu, J. Luan, B. Wang, and B. An, "Enhance Mobile Agents Thinking Process via Iterative Preference Learning." arXiv preprint arXiv:2505.12299, 2025.
@@ -43,43 +41,45 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 **Conference Publications**
 ------
 
-Q. Wu, **P. Gao**, W. Liu, and J. Luan, "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism." Proc. of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), November, 2025.
+G. Liu, J. Ye, J. Liu, Y. Li, W. Liu, **P. Gao**, J. Luan, and Y. Liu, "Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties." Proc. of the Workshop on Edge and Mobile Foundation Models (EdgeFM), November 2025.
 
-M. Cui, **P. Gao**, W. Liu, J. Luan, and B. Wang, "Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study." Proc. of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), May, 2025. (The first two authors contributed equally to this paper) [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/ModelSpace/gemmax2-673714f5049bfa3a90bee6b6)]
+Q. Wu, **P. Gao**, W. Liu, and J. Luan, "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism." Proc. of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2025.
 
-M. Sun, W. Liu, J. Luan, **P. Gao**, and B. Wang, "Mixture of Diverse Size Experts." Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track, November, 2024.
+M. Cui, **P. Gao**, W. Liu, J. Luan, and B. Wang, "Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study." Proc. of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), May 2025. (The first two authors contributed equally to this paper) [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/ModelSpace/gemmax2-673714f5049bfa3a90bee6b6)]
 
-J. Du, Y. Wang, W. Zhao, Z. Deng, S. Liu, R. Lou, H. P. Zou, P. N. Venkit, N. Zhang, M. Srinath, H. R. Zhang, V. Gupta, Y. Li, T. Li, F. Wang, Q. Liu, T. Liu, **P. Gao**, C. Xia, C. Xing, J. Cheng, Z. Wang, Y. Su, R. S. Shah, R. Guo, J. Gu, H. Li, K. Wei, Z. Wang, L. Cheng, S. Ranathunga, M. Fang, J. Fu, F. Liu, R. Huang, E. Blanco, Y. Cao, R. Zhang, P. S. Yu, and W. Yin, "LLMs assist NLP Researchers: Critique Paper (Meta-)Reviewing." Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), November, 2024.
+M. Sun, W. Liu, J. Luan, **P. Gao**, and B. Wang, "Mixture of Diverse Size Experts." Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track, November 2024.
 
-**P. Gao**, R. Zhang, Z. He, H. Wu, and H. Wang, "An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation." Proc. of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), June, 2024. [[Code](https://github.com/gpengzhi/SimCR)]
+J. Du, Y. Wang, W. Zhao, Z. Deng, S. Liu, R. Lou, H. P. Zou, P. N. Venkit, N. Zhang, M. Srinath, H. R. Zhang, V. Gupta, Y. Li, T. Li, F. Wang, Q. Liu, T. Liu, **P. Gao**, C. Xia, C. Xing, J. Cheng, Z. Wang, Y. Su, R. S. Shah, R. Guo, J. Gu, H. Li, K. Wei, Z. Wang, L. Cheng, S. Ranathunga, M. Fang, J. Fu, F. Liu, R. Huang, E. Blanco, Y. Cao, R. Zhang, P. S. Yu, and W. Yin, "LLMs assist NLP Researchers: Critique Paper (Meta-)Reviewing." Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2024.
 
-**P. Gao**, L. Zhang, Z. He, H. Wu, and H. Wang, "Learning Multilingual Sentence Representations with Cross-lingual Consistency Regularization." Proc. of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track, December, 2023. [[Code](https://github.com/gpengzhi/CrossConST-SR)]
+**P. Gao**, R. Zhang, Z. He, H. Wu, and H. Wang, "An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation." Proc. of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), June 2024. [[Code](https://github.com/gpengzhi/SimCR)]
 
-**P. Gao**, L. Zhang, Z. He, H. Wu, and H. Wang, "Improving Zero-shot Multilingual Neural Machine Translation by Leveraging Cross-lingual Consistency Regularization." Findings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL), July, 2023. [[Code](https://github.com/gpengzhi/CrossConST-MT)]
+**P. Gao**, L. Zhang, Z. He, H. Wu, and H. Wang, "Learning Multilingual Sentence Representations with Cross-lingual Consistency Regularization." Proc. of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track, December 2023. [[Code](https://github.com/gpengzhi/CrossConST-SR)]
 
-**P. Gao**, Z. He, H. Wu, and H. Wang, "Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation." Proc. of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), July, 2022. [[Code](https://github.com/gpengzhi/Bi-SimCut)]
+**P. Gao**, L. Zhang, Z. He, H. Wu, and H. Wang, "Improving Zero-shot Multilingual Neural Machine Translation by Leveraging Cross-lingual Consistency Regularization." Findings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL), July 2023. [[Code](https://github.com/gpengzhi/CrossConST-MT)]
 
-J. Li, **P. Gao**, X. Wu, Y. Feng, Z. He, H. Wu, and H. Wang, "Mixup Decoding for Diverse Machine Translation." Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), November, 2021.
+**P. Gao**, Z. He, H. Wu, and H. Wang, "Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation." Proc. of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), July 2022. [[Code](https://github.com/gpengzhi/Bi-SimCut)]
 
-R. Wang, T. Chen, Z. Xu, and **P. Gao**, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements." Proc. of Asilomar Conference on Signals, Systems, and Computers, November, 2021.
+J. Li, **P. Gao**, X. Wu, Y. Feng, Z. He, H. Wu, and H. Wang, "Mixup Decoding for Diverse Machine Translation." Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2021.
 
-Z. Liu, G. Ding, A. Bukkittu, M. Gupta, **P. Gao**, A. Ahmed, S. Zhang, X. Gao, S. Singhavi, L. Li, W. Wei, Z. Hu, H. Shi, X. Liang, T. Mitamura, E. P. Xing, and Z. Hu. "A Data-Centric Framework for Composable NLP Workflows." Proc. of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations, November, 2020. [[Code](https://github.com/asyml/forte)]
+R. Wang, T. Chen, Z. Xu, and **P. Gao**, "Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements." Proc. of Asilomar Conference on Signals, Systems, and Computers, November 2021.
 
-M. Wang, J. H. Chow, Y. Hao, S. Zhang, W. Li, R. Wang, **P. Gao**, C. Lackner, E. Farantatos, and M. Patel. "A Low-rank Framework of PMU Data Recovery and Event Identification." Proc. of the First IEEE International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), College Station, Texas, May, 2019. 
+Z. Liu, G. Ding, A. Bukkittu, M. Gupta, **P. Gao**, A. Ahmed, S. Zhang, X. Gao, S. Singhavi, L. Li, W. Wei, Z. Hu, H. Shi, X. Liang, T. Mitamura, E. P. Xing, and Z. Hu. "A Data-Centric Framework for Composable NLP Workflows." Proc. of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations, November 2020. [[Code](https://github.com/asyml/forte)]
 
-G. Mijolla, S. Konstantinouplos, **P. Gao**, J. H. Chow, and M. Wang. "An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." Proc. of the 20th Power Systems Computation Conference (PSCC), Dublin, Ireland, June, 2018.
+M. Wang, J. H. Chow, Y. Hao, S. Zhang, W. Li, R. Wang, **P. Gao**, C. Lackner, E. Farantatos, and M. Patel. "A Low-rank Framework of PMU Data Recovery and Event Identification." Proc. of the First IEEE International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), College Station, Texas, May 2019. 
 
-**P. Gao**, and M. Wang. "Dynamic Matrix Recovery from Partially Observed and Erroneous Measurements." Proc. of the International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Canada, April, 2018.
+G. Mijolla, S. Konstantinouplos, **P. Gao**, J. H. Chow, and M. Wang. "An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." Proc. of the 20th Power Systems Computation Conference (PSCC), Dublin, Ireland, June 2018.
+
+**P. Gao**, and M. Wang. "Dynamic Matrix Recovery from Partially Observed and Erroneous Measurements." Proc. of the International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, Canada, April 2018.
 
 M. Wang, J. H. Chow, **P. Gao**, Y. Hao, W. Li, and R. Wang. "Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures." Proc. of the 10th Bulk Power Systems Dynamics and Control Symposium – IREP’2017. Espinho, Portugal, August 2017.
 
-**P. Gao**, R. Wang, and M. Wang. "Quantized Low-rank Matrix Recovery with Erroneous Measurements: Application to Data Privacy in Power Grids." Proc. of Asilomar Conference on Signals, Systems, and Computers 2016. Pacific Grove, CA, Nov. 2016.
+**P. Gao**, R. Wang, and M. Wang. "Quantized Low-rank Matrix Recovery with Erroneous Measurements: Application to Data Privacy in Power Grids." Proc. of Asilomar Conference on Signals, Systems, and Computers 2016. Pacific Grove, CA, November 2016.
 
-**P. Gao**, M. Wang, and J. H. Chow. "Matrix Completion with Columns in Union and Sums of Subspaces." Proc. of IEEE Global Conference on Signal and Information Processing (GlobalSIP) 2015. Orlando, FL, Dec. 2015.
+**P. Gao**, M. Wang, and J. H. Chow. "Matrix Completion with Columns in Union and Sums of Subspaces." Proc. of IEEE Global Conference on Signal and Information Processing (GlobalSIP) 2015. Orlando, FL, December 2015.
 
-M. Wang, J. H. Chow, **P. Gao**, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky. "A Low-Rank Matrix Approach for the Analysis of Large Amounts of Power System Synchrophasor Data." Proc. of Hawaii International Conference on System Sciences (**Runner-up for Best Paper in Electric Energy Systems Track**), Kauai, Hawaii, Jan. 2015.
+M. Wang, J. H. Chow, **P. Gao**, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky. "A Low-Rank Matrix Approach for the Analysis of Large Amounts of Power System Synchrophasor Data." Proc. of Hawaii International Conference on System Sciences (**Runner-up for Best Paper in Electric Energy Systems Track**), Kauai, Hawaii, January 2015.
 
-M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of "Unobservable" Cyber Data Attacks on Power Grids." Proc. of IEEE SmartGridComm, Venice, Italy, Nov. 2014.
+M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. "Identification of "Unobservable" Cyber Data Attacks on Power Grids." Proc. of IEEE SmartGridComm, Venice, Italy, November 2014.
 
 **P. Gao**, M. Wang, S. G. Ghiocel, and J. H. Chow. "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (**Best Conference Papers on Power System Analysis and Modeling**), Washington, DC, July 2014.
 
