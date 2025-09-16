@@ -43,7 +43,7 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 
 G. Liu, J. Ye, J. Liu, Y. Li, W. Liu, **P. Gao**, J. Luan, and Y. Liu, "Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties." Proc. of the Workshop on Edge and Mobile Foundation Models (EdgeFM), November 2025.
 
-Q. Wu, **P. Gao**, W. Liu, and J. Luan, "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism." Proc. of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2025. **Oral**
+Q. Wu, **P. Gao**, W. Liu, and J. Luan, "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism." Proc. of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2025. **Oral presentation**
 
 M. Cui, **P. Gao**, W. Liu, J. Luan, and B. Wang, "Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study." Proc. of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), May 2025. (The first two authors contributed equally to this paper) [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/ModelSpace/gemmax2-673714f5049bfa3a90bee6b6)]
 
