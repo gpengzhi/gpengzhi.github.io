@@ -15,6 +15,8 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 **Preprints & Technical Reports**
 ------
 
+T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
+
 W. Xu, Z. Jiang, Y. Liu, **P. Gao**, W. Liu, J. Luan, Y. Li, Y. Liu, B. Wang, and B. An, "Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents." arXiv preprint arXiv:2505.11891, 2025.
 
 K. Huang, W. Xu, Y. Liu, Q. Wang, **P. Gao**, W. Liu, J. Luan, B. Wang, and B. An, "Enhance Mobile Agents Thinking Process via Iterative Preference Learning." arXiv preprint arXiv:2505.12299, 2025.
