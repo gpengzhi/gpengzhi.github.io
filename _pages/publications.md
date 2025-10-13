@@ -15,6 +15,8 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 **Preprints & Technical Reports**
 ------
 
+L. Gao, L. Zhang, **P. Gao**, W. Liu, J. Luan, and M. Xu, "GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning." arXiv preprint arXiv:2505.12493, 2025.
+
 T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
 
 W. Xu, Z. Jiang, Y. Liu, **P. Gao**, W. Liu, J. Luan, Y. Li, Y. Liu, B. Wang, and B. An, "Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents." arXiv preprint arXiv:2505.11891, 2025.
