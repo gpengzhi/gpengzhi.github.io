@@ -15,7 +15,7 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 **Preprints & Technical Reports**
 ------
 
-Y. Chen, Y. Liu, L. Zhang, P. Gao, J. Luan, and W. Liu, "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization." arXiv preprint arXiv:2511.13091, 2025.
+Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization." arXiv preprint arXiv:2511.13091, 2025.
 
 R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." arXiv preprint arXiv:2511.05993, 2025.
 
