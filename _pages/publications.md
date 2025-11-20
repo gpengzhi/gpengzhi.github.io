@@ -19,7 +19,7 @@ Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-
 
 R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." arXiv preprint arXiv:2511.05993, 2025.
 
-L. Gao, L. Zhang, **P. Gao**, W. Liu, J. Luan, and M. Xu, "GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning." arXiv preprint arXiv:2505.12493, 2025.
+L. Gao, L. Zhang, **P. Gao**, W. Liu, J. Luan, and M. Xu, "GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning." arXiv preprint arXiv:2505.12493, 2025. [[Code](https://github.com/UbiquitousLearning/UIShift)]
 
 T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
 
