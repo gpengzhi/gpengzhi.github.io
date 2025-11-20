@@ -57,7 +57,7 @@ M. Cui, **P. Gao**, W. Liu, J. Luan, and B. Wang, "Multilingual Machine Translat
 
 M. Sun, W. Liu, J. Luan, **P. Gao**, and B. Wang, "Mixture of Diverse Size Experts." Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track, November 2024.
 
-J. Du, Y. Wang, W. Zhao, Z. Deng, S. Liu, R. Lou, H. P. Zou, P. N. Venkit, N. Zhang, M. Srinath, H. R. Zhang, V. Gupta, Y. Li, T. Li, F. Wang, Q. Liu, T. Liu, **P. Gao**, C. Xia, C. Xing, J. Cheng, Z. Wang, Y. Su, R. S. Shah, R. Guo, J. Gu, H. Li, K. Wei, Z. Wang, L. Cheng, S. Ranathunga, M. Fang, J. Fu, F. Liu, R. Huang, E. Blanco, Y. Cao, R. Zhang, P. S. Yu, and W. Yin, "LLMs assist NLP Researchers: Critique Paper (Meta-)Reviewing." Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2024.
+J. Du, Y. Wang, W. Zhao, Z. Deng, S. Liu, R. Lou, H. P. Zou, P. N. Venkit, N. Zhang, M. Srinath, H. R. Zhang, V. Gupta, Y. Li, T. Li, F. Wang, Q. Liu, T. Liu, **P. Gao**, C. Xia, C. Xing, J. Cheng, Z. Wang, Y. Su, R. S. Shah, R. Guo, J. Gu, H. Li, K. Wei, Z. Wang, L. Cheng, S. Ranathunga, M. Fang, J. Fu, F. Liu, R. Huang, E. Blanco, Y. Cao, R. Zhang, P. S. Yu, and W. Yin, "LLMs assist NLP Researchers: Critique Paper (Meta-)Reviewing." Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2024. [[Data](https://github.com/jiangshdd/ReviewCritique)]
 
 **P. Gao**, R. Zhang, Z. He, H. Wu, and H. Wang, "An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation." Proc. of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), June 2024. [[Code](https://github.com/gpengzhi/SimCR)]
 
