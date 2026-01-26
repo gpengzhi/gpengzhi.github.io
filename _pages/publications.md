@@ -19,11 +19,7 @@ Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-
 
 R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." arXiv preprint arXiv:2511.05993, 2025.
 
-
-
 T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
-
-W. Xu, Z. Jiang, Y. Liu, **P. Gao**, W. Liu, J. Luan, Y. Li, Y. Liu, B. Wang, and B. An, "Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents." arXiv preprint arXiv:2505.11891, 2025. [[Data](https://huggingface.co/datasets/xwk123/MobileBench-v2)]
 
 K. Huang, W. Xu, Y. Liu, Q. Wang, **P. Gao**, W. Liu, J. Luan, B. Wang, and B. An, "Enhance Mobile Agents Thinking Process via Iterative Preference Learning." arXiv preprint arXiv:2505.12299, 2025.
 
@@ -48,6 +44,8 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 
 **Conference Publications**
 ------
+
+W. Xu, Z. Jiang, Y. Liu, **P. Gao**, W. Liu, J. Luan, Y. Liu, Y. Li, B. Wang, and B. An, "SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April, 2026. [[Data](https://huggingface.co/datasets/xwk123/MobileBench-v2)]
 
 L. Gao, L. Zhang, **P. Gao**, W. Liu, J. Luan, and M. Xu, "GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April, 2026. [[Code](https://github.com/UbiquitousLearning/UIShift)]
 
