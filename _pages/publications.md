@@ -19,7 +19,7 @@ Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-
 
 R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." arXiv preprint arXiv:2511.05993, 2025.
 
-L. Gao, L. Zhang, **P. Gao**, W. Liu, J. Luan, and M. Xu, "GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning." arXiv preprint arXiv:2505.12493, 2025. [[Code](https://github.com/UbiquitousLearning/UIShift)]
+
 
 T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
 
@@ -48,6 +48,8 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 
 **Conference Publications**
 ------
+
+L. Gao, L. Zhang, **P. Gao**, W. Liu, J. Luan, and M. Xu, "GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning." Proc. of the fourteenth International Conference on Learning Representations, April, 2026. [[Code](https://github.com/UbiquitousLearning/UIShift)]
 
 G. Liu, J. Ye, J. Liu, Y. Li, W. Liu, **P. Gao**, J. Luan, and Y. Liu, "Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties." Proc. of the Workshop on Edge and Mobile Foundation Models (EdgeFM), November 2025. [[Project](https://agenthazard.github.io/)]
 
