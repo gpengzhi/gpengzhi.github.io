@@ -21,8 +21,6 @@ R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. 
 
 T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
 
-K. Huang, W. Xu, Y. Liu, Q. Wang, **P. Gao**, W. Liu, J. Luan, B. Wang, and B. An, "Enhance Mobile Agents Thinking Process via Iterative Preference Learning." arXiv preprint arXiv:2505.12299, 2025.
-
 **P. Gao**, Z. He, H. Wu, and H. Wang, "Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models." arXiv preprint arXiv:2401.05861, 2024. [[Code](https://github.com/gpengzhi/CrossConST-LLM)]
 
 R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." DOI: 10.21203/rs.3.rs-420556/v1, 2021. (The first two authors contributed equally to this paper)
@@ -44,6 +42,8 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 
 **Conference Publications**
 ------
+
+K. Huang, W. Xu, Y. Liu, Q. Wang, **P. Gao**, W. Liu, J. Luan, B. Wang, and B. An, "MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April, 2026.
 
 W. Xu, Z. Jiang, Y. Liu, **P. Gao**, W. Liu, J. Luan, Y. Liu, Y. Li, B. Wang, and B. An, "SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April, 2026. [[Data](https://huggingface.co/datasets/xwk123/MobileBench-v2)]
 
