@@ -49,7 +49,7 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 **Conference Publications**
 ------
 
-L. Gao, L. Zhang, **P. Gao**, W. Liu, J. Luan, and M. Xu, "GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning." Proc. of the fourteenth International Conference on Learning Representations, April, 2026. [[Code](https://github.com/UbiquitousLearning/UIShift)]
+L. Gao, L. Zhang, **P. Gao**, W. Liu, J. Luan, and M. Xu, "GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April, 2026. [[Code](https://github.com/UbiquitousLearning/UIShift)]
 
 G. Liu, J. Ye, J. Liu, Y. Li, W. Liu, **P. Gao**, J. Luan, and Y. Liu, "Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties." Proc. of the Workshop on Edge and Mobile Foundation Models (EdgeFM), November 2025. [[Project](https://agenthazard.github.io/)]
 
