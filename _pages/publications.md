@@ -15,6 +15,8 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 **Preprints & Technical Reports**
 ------
 
+Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." arXiv preprint arXiv:2601.20335, 2026.
+
 Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization." arXiv preprint arXiv:2511.13091, 2025.
 
 R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." arXiv preprint arXiv:2511.05993, 2025.
