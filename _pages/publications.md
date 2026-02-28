@@ -45,7 +45,7 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 **Conference Publications**
 ------
 
-G. Liu, J. Ye, J. Liu, W. Liu, **P. Gao**, J. Luan, Y. Li, and Y. Liu, "Mobile GUI Agents under Real-world Threats: Are We There Yet?" Proc. of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2026), June 2026.
+G. Liu, J. Ye, J. Liu, W. Liu, **P. Gao**, J. Luan, Y. Li, and Y. Liu, "Mobile GUI Agents under Real-world Threats: Are We There Yet?" Proc. of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2026), June, 2026.
 
 K. Huang, W. Xu, Y. Liu, Q. Wang, **P. Gao**, W. Liu, J. Luan, B. Wang, and B. An, "MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April, 2026.
 
