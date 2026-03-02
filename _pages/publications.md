@@ -15,7 +15,7 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 **Preprints & Technical Reports**
 ------
 
-Y. Liu, W. Xu, K. Huang, C. Chen, J. Zhao, **P. Gao**, W. Liu, J. Luan, S. Shang, B. Du, J. Wen, R. Yan, "CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning." arXiv preprint arXiv:2602.24142, 2026.
+Y. Liu, W. Xu, K. Huang, C. Chen, J. Zhao, **P. Gao**, W. Liu, J. Luan, S. Shang, B. Du, J. Wen, and R. Yan, "CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning." arXiv preprint arXiv:2602.24142, 2026.
 
 Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." arXiv preprint arXiv:2601.20335, 2026.
 
