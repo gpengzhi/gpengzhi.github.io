@@ -27,6 +27,8 @@ R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. 
 
 T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
 
+L. Gao, L. Zhang, S. Wang, **P. Gao**, W. Liu, J. Luan, S. Wang, Y. Li, M. Xu, "MobileViews: A Million-scale and Diverse Mobile GUI Dataset." arXiv preprint arXiv:2409.14337, 2024. [[Data](https://huggingface.co/datasets/mllmTeam/MobileViews)]
+
 **P. Gao**, Z. He, H. Wu, and H. Wang, "Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models." arXiv preprint arXiv:2401.05861, 2024. [[Code](https://github.com/gpengzhi/CrossConST-LLM)]
 
 R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." DOI: 10.21203/rs.3.rs-420556/v1, 2021. (The first two authors contributed equally to this paper)
