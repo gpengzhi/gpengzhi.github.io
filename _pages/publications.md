@@ -19,7 +19,7 @@ Y. Liu, W. Xu, K. Huang, C. Chen, J. Zhao, **P. Gao**, W. Liu, J. Luan, S. Shang
 
 Y. Shang, **P. Gao**, W. Liu, J. Luan, and J. Su, "Scaling Model and Data for Multilingual Machine Translation with Open Large Language Models." arXiv preprint arXiv:2602.11961, 2026. (The first two authors contributed equally to this paper) [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/xiaomi-research/milmmt-46)]
 
-Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." arXiv preprint arXiv:2601.20335, 2026.
+Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." arXiv preprint arXiv:2601.20335, 2026. [[Code](https://github.com/xiaomi-research/mobilebench-ol)]
 
 Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization." arXiv preprint arXiv:2511.13091, 2025.
 
