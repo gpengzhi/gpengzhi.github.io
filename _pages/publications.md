@@ -15,7 +15,7 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 **Preprints & Technical Reports**
 ------
 
-Y. Shang, P. Gao, Y. Yang, J. Ma, W. Liu, J. Luan, and J. Su, "ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation." arXiv preprint arXiv:2603.14903, 2026.
+Y. Shang, **P. Gao**, Y. Yang, J. Ma, W. Liu, J. Luan, and J. Su, "ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation." arXiv preprint arXiv:2603.14903, 2026.
 
 Y. Liu, W. Xu, K. Huang, C. Chen, J. Zhao, **P. Gao**, W. Liu, J. Luan, S. Shang, B. Du, J. Wen, and R. Yan, "CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning." arXiv preprint arXiv:2602.24142, 2026.
 
