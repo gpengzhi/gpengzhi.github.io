@@ -53,13 +53,13 @@ Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-
 
 R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." Findings of The 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
 
-G. Liu, J. Ye, J. Liu, W. Liu, **P. Gao**, J. Luan, Y. Li, and Y. Liu, "Mobile GUI Agents under Real-world Threats: Are We There Yet?" Proc. of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2026), June, 2026.
+G. Liu, J. Ye, J. Liu, W. Liu, **P. Gao**, J. Luan, Y. Li, and Y. Liu, "Mobile GUI Agents under Real-world Threats: Are We There Yet?" Proc. of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2026), June 2026.
 
-K. Huang, W. Xu, Y. Liu, Q. Wang, **P. Gao**, W. Liu, J. Luan, B. Wang, and B. An, "MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April, 2026.
+K. Huang, W. Xu, Y. Liu, Q. Wang, **P. Gao**, W. Liu, J. Luan, B. Wang, and B. An, "MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April 2026.
 
-W. Xu, Z. Jiang, Y. Liu, **P. Gao**, W. Liu, J. Luan, Y. Liu, Y. Li, B. Wang, and B. An, "SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April, 2026. [[Data](https://huggingface.co/datasets/xwk123/MobileBench-v2)]
+W. Xu, Z. Jiang, Y. Liu, **P. Gao**, W. Liu, J. Luan, Y. Liu, Y. Li, B. Wang, and B. An, "SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April 2026. [[Data](https://huggingface.co/datasets/xwk123/MobileBench-v2)]
 
-L. Gao, L. Zhang, **P. Gao**, W. Liu, J. Luan, and M. Xu, "GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April, 2026. [[Code](https://github.com/UbiquitousLearning/UIShift)]
+L. Gao, L. Zhang, **P. Gao**, W. Liu, J. Luan, and M. Xu, "GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April 2026. [[Code](https://github.com/UbiquitousLearning/UIShift)]
 
 G. Liu, J. Ye, J. Liu, Y. Li, W. Liu, **P. Gao**, J. Luan, and Y. Liu, "Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties." Proc. of the Workshop on Edge and Mobile Foundation Models (EdgeFM), November 2025. [[Project](https://agenthazard.github.io/)]
 
