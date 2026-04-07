@@ -21,12 +21,6 @@ Y. Liu, W. Xu, K. Huang, C. Chen, J. Zhao, **P. Gao**, W. Liu, J. Luan, S. Shang
 
 Y. Shang, **P. Gao**, W. Liu, J. Luan, and J. Su, "Scaling Model and Data for Multilingual Machine Translation with Open Large Language Models." arXiv preprint arXiv:2602.11961, 2026. (The first two authors contributed equally to this paper) [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/xiaomi-research/milmmt-46)]
 
-Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." arXiv preprint arXiv:2601.20335, 2026. [[Code](https://github.com/xiaomi-research/mobilebench-ol)]
-
-Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization." arXiv preprint arXiv:2511.13091, 2025.
-
-R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." arXiv preprint arXiv:2511.05993, 2025.
-
 T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
 
 L. Gao, L. Zhang, S. Wang, **P. Gao**, W. Liu, J. Luan, S. Wang, Y. Li, M. Xu, "MobileViews: A Million-scale and Diverse Mobile GUI Dataset." arXiv preprint arXiv:2409.14337, 2024. [[Data](https://huggingface.co/datasets/mllmTeam/MobileViews)]
@@ -52,6 +46,12 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 
 **Conference Publications**
 ------
+
+Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." Findings of The 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026. [[Code](https://github.com/xiaomi-research/mobilebench-ol)]
+
+Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization." Findings of The 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
+
+R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." Findings of The 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
 
 G. Liu, J. Ye, J. Liu, W. Liu, **P. Gao**, J. Luan, Y. Li, and Y. Liu, "Mobile GUI Agents under Real-world Threats: Are We There Yet?" Proc. of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2026), June, 2026.
 
