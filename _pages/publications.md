@@ -47,11 +47,11 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 **Conference Publications**
 ------
 
-Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." Findings of The 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026. [[Code](https://github.com/xiaomi-research/mobilebench-ol)]
+Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." Findings of the 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026. [[Code](https://github.com/xiaomi-research/mobilebench-ol)]
 
-Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization." Findings of The 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
+Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization." Findings of the 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
 
-R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." Findings of The 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
+R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." Findings of the 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
 
 G. Liu, J. Ye, J. Liu, W. Liu, **P. Gao**, J. Luan, Y. Li, and Y. Liu, "Mobile GUI Agents under Real-world Threats: Are We There Yet?" Proc. of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2026), June 2026.
 
