@@ -45,6 +45,8 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 **Conference Publications**
 ------
 
+H. Qu, Y. Liu, R. Jin, W. Zhang, **P. Gao**, W. Liu, and J. Luan, "Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation." Proc. of the Forty-third International Conference on Machine Learning (ICML), July 2026.
+
 Y. Liu, W. Xu, K. Huang, C. Chen, J. Zhao, **P. Gao**, W. Liu, J. Luan, S. Shang, B. Du, J. Wen, and R. Yan, "CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning." Proc. of the Forty-third International Conference on Machine Learning (ICML), July 2026.
 
 Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." Findings of the 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026. [[Code](https://github.com/xiaomi-research/mobilebench-ol)]
