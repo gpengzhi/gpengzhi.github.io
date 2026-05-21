@@ -55,7 +55,7 @@ Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-
 
 R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." Findings of the 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
 
-G. Liu, J. Ye, J. Liu, W. Liu, **P. Gao**, J. Luan, Y. Li, and Y. Liu, "Mobile GUI Agents under Real-world Threats: Are We There Yet?" Proc. of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2026), June 2026.
+G. Liu, J. Ye, J. Liu, W. Liu, **P. Gao**, J. Luan, Y. Li, and Y. Liu, "Mobile GUI Agents under Real-world Threats: Are We There Yet?" Proc. of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), June 2026.
 
 K. Huang, W. Xu, Y. Liu, Q. Wang, **P. Gao**, W. Liu, J. Luan, B. Wang, and B. An, "MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning." Proc. of the fourteenth International Conference on Learning Representations (ICLR), April 2026.
 
