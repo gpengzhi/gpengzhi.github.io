@@ -23,7 +23,7 @@ I am currently a Research Engineer & Tech Lead Manager working on Multilingual L
     <li><strong>Apr 2026</strong> — Three papers accepted to ACL 2026 Findings.</li>
     <li><strong>Mar 2026</strong> — One paper accepted to MobiSys 2026.</li>
     <li><strong>Jan 2026</strong> — Three papers accepted to ICLR 2026.</li>
-    <li><strong>Aug 2025</strong> — One paper accepted to EMNLP 2025 (Oral).</li>
+    <li><strong>Aug 2025</strong> — One paper accepted to EMNLP 2025.</li>
     <li><strong>Jan 2025</strong> — One paper accepted to NAACL 2025.</li>
     <li><strong>Sep 2024</strong> — Two papers accepted to EMNLP 2024.</li>
     <li><strong>Mar 2024</strong> — One paper accepted to NAACL 2024.</li>
