@@ -19,7 +19,7 @@ G. Liu, J. Ye, **P. Gao**, W. Liu, J. Luan, Y. Liu, and Y. Li, "SimuWoB: Simulat
 
 Y. Shang, **P. Gao**, Y. Yang, J. Ma, W. Liu, J. Luan, and J. Su, "ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation." arXiv preprint arXiv:2603.14903, 2026.
 
-Y. Shang*, **P. Gao***, W. Liu, J. Luan, and J. Su, "Scaling Model and Data for Multilingual Machine Translation with Open Large Language Models." arXiv preprint arXiv:2602.11961, 2026. (The first two authors contributed equally to this paper) [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/xiaomi-research/milmmt-46)]
+Y. Shang*, **P. Gao***, W. Liu, J. Luan, and J. Su, "Scaling Model and Data for Multilingual Machine Translation with Open Large Language Models." arXiv preprint arXiv:2602.11961, 2026. [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/xiaomi-research/milmmt-46)]
 
 T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
 
@@ -27,7 +27,7 @@ L. Gao, L. Zhang, S. Wang, **P. Gao**, W. Liu, J. Luan, S. Wang, Y. Li, M. Xu, "
 
 **P. Gao**, Z. He, H. Wu, and H. Wang, "Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models." arXiv preprint arXiv:2401.05861, 2024. [[Code](https://github.com/gpengzhi/CrossConST-LLM)]
 
-R. Wang, **P. Gao**, and M. Wang. "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." DOI: 10.21203/rs.3.rs-420556/v1, 2021. (The first two authors contributed equally to this paper)
+R. Wang*, **P. Gao***, and M. Wang. "Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." DOI: 10.21203/rs.3.rs-420556/v1, 2021.
 
 Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch.", 2019. [[Blog](https://medium.com/@Petuum/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch-ea6e5f8e65a3)] [[Blog (in Chinese)](https://www.jiqizhixin.com/articles/2019-10-30-12)] [[Code](https://github.com/asyml/texar-pytorch)]
 
@@ -35,7 +35,7 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 **Journal Publications**
 ------
 
-**P. Gao**, R. Wang, M. Wang, and J. H. Chow. "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." IEEE Trans. Signal Processing, 2018, 66 (11): 2918-2932. (The first two authors contributed equally to this paper)
+**P. Gao***, R. Wang*, M. Wang, and J. H. Chow. "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." IEEE Trans. Signal Processing, 2018, 66 (11): 2918-2932.
 
 **P. Gao**, M. Wang, J. H. Chow, M. Berger, and L. M. Seversky. "Missing Data Recovery for High-dimensional Signals with Nonlinear Low-dimensional Structures." IEEE Trans. Signal Processing, 2017, 65 (20): 5421-5436.
 
@@ -47,7 +47,7 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 **Conference Publications**
 ------
 
-H. Qu, Y. Liu, R. Jin, W. Zhang, **P. Gao**, W. Liu, and J. Luan, "Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation." Proc. of the Forty-third International Conference on Machine Learning (ICML), July 2026. (The first two authors contributed equally to this paper) [[Code](https://github.com/xiaomi-research/guievalkit)]
+H. Qu*, Y. Liu*, R. Jin, W. Zhang, **P. Gao**, W. Liu, and J. Luan, "Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation." Proc. of the Forty-third International Conference on Machine Learning (ICML), July 2026. [[Code](https://github.com/xiaomi-research/guievalkit)]
 
 Y. Liu, W. Xu, K. Huang, C. Chen, J. Zhao, **P. Gao**, W. Liu, J. Luan, S. Shang, B. Du, J. Wen, and R. Yan, "CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning." Proc. of the Forty-third International Conference on Machine Learning (ICML), July 2026.
 
@@ -69,7 +69,7 @@ G. Liu, J. Ye, J. Liu, Y. Li, W. Liu, **P. Gao**, J. Luan, and Y. Liu, "Hijackin
 
 Q. Wu, **P. Gao**, W. Liu, and J. Luan, "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism." Proc. of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2025. **Oral presentation** [[Code](https://github.com/xiaomi-research/backtrackagent)]
 
-M. Cui, **P. Gao**, W. Liu, J. Luan, and B. Wang, "Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study." Proc. of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), May 2025. (The first two authors contributed equally to this paper) [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/ModelSpace/gemmax2-673714f5049bfa3a90bee6b6)]
+M. Cui*, **P. Gao***, W. Liu, J. Luan, and B. Wang, "Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study." Proc. of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), May 2025. [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/ModelSpace/gemmax2-673714f5049bfa3a90bee6b6)]
 
 M. Sun, W. Liu, J. Luan, **P. Gao**, and B. Wang, "Mixture of Diverse Size Experts." Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track, November 2024.
 
