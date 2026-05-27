@@ -1,28 +1,14 @@
-# main links links
+# Top-nav links
+
 main:
   - title: "Publications"
-    url: /publications/   
+    url: /publications/
 
-#  - title: "Talks"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
-    
   - title: "Projects"
     url: /projects/
-    
+
   - title: "Resume"
     url: /resume/
-    
+
   - title: "Miscellaneous"
     url: /miscellaneous/
-    
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "Guide"
-#    url: /markdown/
-
-#  - title: "Miscellaneous"
-#    url: /miscellaneous/
