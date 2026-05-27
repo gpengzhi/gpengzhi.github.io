@@ -5,7 +5,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-[[Curriculum Vitae](http://gpengzhi.github.io/files/resume_en/resume_en.pdf)] [[中文简历](http://gpengzhi.github.io/files/resume_cn/resume-zh_CN.pdf)]
+[[Curriculum Vitae](/files/resume_en/resume_en.pdf)] [[中文简历](/files/resume_cn/resume-zh_CN.pdf)]
 
 <!--
 
@@ -15,15 +15,15 @@ author_profile: true
 
 -->
 
-**Education**
+**🎓 Education**
 ------
 * 2013 - 2017: Rensselaer Polytechnic Institute, NY, USA. Ph.D. in Electrical Engineering.
 * 2011 - 2013: University of Pennsylvania, PA, USA. M.S. in Electrical Engineering.
 * 2007 - 2011: Xidian University, China. B.S. in Electronic and Information Engineering.
 
-**Work Experience**
+**💼 Work Experience**
 ------
-* 2024 - present:     Xiaomi Inc., Tech Lead Manager.
+* 2024 - present:     Xiaomi Inc., Research Engineer & Tech Lead Manager.
 * 2020 - 2024:        Baidu Inc., Staff Research Engineer.
 * 2018 - 2020:        Petuum Inc., Data Scientist / Machine Learning Engineer.
 * 2010 - 2011:        Microsoft Research Asia, Research Intern.
@@ -52,19 +52,19 @@ author_profile: true
 
 -->
 
-**Research Interns / Students Mentored**
+**👥 Research Interns / Students Mentored**
 ------
 * Zhizhuo Yang, Peking University, 2025.
 * Wenzong Zhang, Beijing Institute of Technology, 2025.
 * Longxi Gao, Beijing University of Posts and Telecommunications, 2025.
 * Renren Jin, Tianjin University, 2025.
-* Changyu Chen, Renmin University of China, 2024 & 2025.
-* Yuzhe Shang, Xiamen University, 2024 & 2025.
-* Menglong Cui, Tianjin University, 2024 & 2025.
-* Xuanfu Wu, Institute of Computing Technology, Chinese Academy of Sciences, 2021 & 2022.
+* Changyu Chen, Renmin University of China, 2024 and 2025.
+* Yuzhe Shang, Xiamen University, 2024 and 2025.
+* Menglong Cui, Tianjin University, 2024 and 2025.
+* Xuanfu Wu, Institute of Computing Technology, Chinese Academy of Sciences, 2021 and 2022.
 * Jicheng Li, Institute of Computing Technology, Chinese Academy of Sciences, 2021.
 
-**Professional Activities & Service**
+**🏛 Professional Activities & Service**
 ------
 * Area Chair:
     * The Association for Computational Linguistics Rolling Review (ACL ARR)

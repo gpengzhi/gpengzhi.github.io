@@ -8,35 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Engineer & Tech Lead Manager working on Multilingual Large Language Models (LLMs) & AI Agents at [Xiaomi](https://www.mi.com/) LLM Team. I was a Staff Research Engineer at [Baidu NLP](https://nlp.baidu.com/), and a Data Scientist at Petuum, an AI startup founded by [Prof. Eric Xing](https://www.cs.cmu.edu/~epxing/). I got my Ph.D. in Electrical Engineering at [Rensselaer Polytechnic Institute (RPI)](http://rpi.edu/), Department of Electrical, Computer & Systems Engineering under  the supervision of [Prof. Meng Wang](https://ecse.rpi.edu/~wang/). I obtained my M.S. in Electrical Engineering at [University of Pennsylvania (Penn)](http://www.upenn.edu/) and received my B.S. (with honors) in Electronic and Information Engineering from [Xidian University](https://en.xidian.edu.cn/). My current research interests include Generative AI and LLM/VLM-based agents.
+I am an older version of the guy on the left and currently a Research Engineer & Tech Lead Manager working on Multilingual Large Language Models (LLMs) & AI Agents at [Xiaomi](https://www.mi.com/) LLM Team. I was a Staff Research Engineer at [Baidu NLP](https://nlp.baidu.com/), and a Data Scientist at Petuum, an AI company founded by [Prof. Eric Xing](https://www.cs.cmu.edu/~epxing/). I received my Ph.D. in Electrical Engineering from [Rensselaer Polytechnic Institute (RPI)](http://rpi.edu/), Department of Electrical, Computer & Systems Engineering under the supervision of [Prof. Meng Wang](https://ecse.rpi.edu/~wang/). I received my M.S. in Electrical Engineering from [University of Pennsylvania (Penn)](http://www.upenn.edu/) and received my B.S. (with honors) in Electronic and Information Engineering from [Xidian University](https://en.xidian.edu.cn/). My current research interests include Generative AI and LLM/VLM-based agents.
 
 
-**Prospective Research Interns**: I am looking for highly motivated PhD / Master students with a background in Artificial Intelligence / Machine Learning / Natural Language Processing. Please contact me along with your resume if you are interested.
+**🎯 Prospective Research Interns**: I am looking for highly motivated Ph.D. / Master's students with a background in Artificial Intelligence / Machine Learning / Natural Language Processing. Please contact me with your resume if you are interested.
 
 
-**News**
+**📰 News**
 ------
 
 <div style="height: 220px; overflow-y: auto; border: 1px solid #e1e1e1; border-radius: 4px; padding: 0.6em 1em 0.6em 1.2em; margin-bottom: 1.2em;">
   <ul style="margin: 0; padding-left: 1.2em;">
-    <li><strong>May 2026</strong> — Two papers accepted to ICML 2026.</li>
-    <li><strong>Apr 2026</strong> — Three papers accepted to ACL 2026 Findings.</li>
-    <li><strong>Mar 2026</strong> — One paper accepted to MobiSys 2026.</li>
-    <li><strong>Jan 2026</strong> — Three papers accepted to ICLR 2026.</li>
-    <li><strong>Aug 2025</strong> — One paper accepted to EMNLP 2025.</li>
-    <li><strong>Jan 2025</strong> — One paper accepted to NAACL 2025.</li>
-    <li><strong>Sep 2024</strong> — Two papers accepted to EMNLP 2024.</li>
-    <li><strong>Mar 2024</strong> — One paper accepted to NAACL 2024.</li>
+    <li>🎉 <strong>May 2026</strong> — Two papers accepted to ICML 2026.</li>
+    <li>🎉 <strong>Apr 2026</strong> — Three papers accepted to ACL 2026 Findings.</li>
+    <li>🎉 <strong>Mar 2026</strong> — One paper accepted to MobiSys 2026.</li>
+    <li>🎉 <strong>Jan 2026</strong> — Three papers accepted to ICLR 2026.</li>
+    <li>🎉 <strong>Aug 2025</strong> — One paper accepted to EMNLP 2025.</li>
+    <li>🎉 <strong>Jan 2025</strong> — One paper accepted to NAACL 2025.</li>
+    <li>🎉 <strong>Sep 2024</strong> — Two papers accepted to EMNLP 2024.</li>
+    <li>🎉 <strong>Mar 2024</strong> — One paper accepted to NAACL 2024.</li>
   </ul>
 </div>
 
 
-**Contact**
+**📬 Contact**
 ------
-Chinese name: 高鹏至  
-Email: gpengzhi (you can make the "at") gmail (dot) com  
-Xiaomi Campus, No.33 Xierqi Middle Road  
-Haidian District, Beijing, China 100085
+🆔 Chinese name: 高鹏至  
+📧 Email: gpengzhi (you can make the "at") gmail (dot) com  
+📍 No.33 Xierqi Middle Road, Beijing, China 100085
 
 
 <!--

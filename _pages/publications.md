@@ -7,14 +7,14 @@ author_profile: true
 
 \* denotes equal contribution.
 
-**Thesis**
+**📜 Thesis**
 ------
 High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applications in Synchrophasor Data Analysis in Power Systems.
 
 Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https://www.ecse.rpi.edu/~chowj/), [Birsen Yazici](https://www.ecse.rpi.edu/~yazici/), and [John E. Mitchell](https://mitchjrpi.github.io/).
 
 
-**Preprints & Technical Reports**
+**✍️ Preprints & Technical Reports**
 ------
 
 G. Liu, J. Ye, **P. Gao**, W. Liu, J. Luan, Y. Liu, and Y. Li, "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking." arXiv preprint arXiv:2605.25160, 2026.
@@ -25,7 +25,7 @@ Y. Shang\*, **P. Gao**\*, W. Liu, J. Luan, and J. Su, "Scaling Model and Data fo
 
 T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
 
-L. Gao, L. Zhang, S. Wang, **P. Gao**, W. Liu, J. Luan, S. Wang, Y. Li, M. Xu, "MobileViews: A Million-scale and Diverse Mobile GUI Dataset." arXiv preprint arXiv:2409.14337, 2024. [[Data](https://huggingface.co/datasets/mllmTeam/MobileViews)]
+L. Gao, L. Zhang, S. Wang, **P. Gao**, W. Liu, J. Luan, S. Wang, Y. Li, and M. Xu, "MobileViews: A Million-scale and Diverse Mobile GUI Dataset." arXiv preprint arXiv:2409.14337, 2024. [[Data](https://huggingface.co/datasets/mllmTeam/MobileViews)]
 
 **P. Gao**, Z. He, H. Wu, and H. Wang, "Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models." arXiv preprint arXiv:2401.05861, 2024. [[Code](https://github.com/gpengzhi/CrossConST-LLM)]
 
@@ -34,7 +34,7 @@ R. Wang\*, **P. Gao**\*, and M. Wang. "Robust Matrix Completion by Exploiting Dy
 Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Library Integrating the Best of TensorFlow into PyTorch.", 2019. [[Blog](https://medium.com/@Petuum/introducing-texar-pytorch-an-ml-library-integrating-the-best-of-tensorflow-into-pytorch-ea6e5f8e65a3)] [[Blog (in Chinese)](https://www.jiqizhixin.com/articles/2019-10-30-12)] [[Code](https://github.com/asyml/texar-pytorch)]
 
 
-**Journal Publications**
+**📖 Journal Publications**
 ------
 
 **P. Gao**\*, R. Wang\*, M. Wang, and J. H. Chow. "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." IEEE Trans. Signal Processing, 2018, 66 (11): 2918-2932.
@@ -46,18 +46,18 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu. "Introducing Texar-PyTorch: An ML Lib
 **P. Gao**, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos. "Missing Data Recovery by Exploiting Low-dimensionality in Power System Synchrophasor Measurements." IEEE Trans. Power Systems, 2016, 31 (2): 1006-1013.
 
 
-**Conference Publications**
+**🎙️ Conference Publications**
 ------
 
 H. Qu\*, Y. Liu\*, R. Jin, W. Zhang, **P. Gao**, W. Liu, and J. Luan, "Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation." Proc. of the Forty-third International Conference on Machine Learning (ICML), July 2026. [[Code](https://github.com/xiaomi-research/guievalkit)]
 
 Y. Liu, W. Xu, K. Huang, C. Chen, J. Zhao, **P. Gao**, W. Liu, J. Luan, S. Shang, B. Du, J. Wen, and R. Yan, "CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning." Proc. of the Forty-third International Conference on Machine Learning (ICML), July 2026.
 
-Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." Findings of the 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026. [[Code](https://github.com/xiaomi-research/mobilebench-ol)]
+Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL), July 2026. [[Code](https://github.com/xiaomi-research/mobilebench-ol)]
 
-Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization." Findings of the 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
+Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization." Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
 
-R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." Findings of the 64st Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
+R. Jin, **P. Gao**, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong, "Revisiting Entropy in Reinforcement Learning for Large Reasoning Models." Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
 
 G. Liu, J. Ye, J. Liu, W. Liu, **P. Gao**, J. Luan, Y. Li, and Y. Liu, "Mobile GUI Agents under Real-world Threats: Are We There Yet?" Proc. of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), June 2026.
 

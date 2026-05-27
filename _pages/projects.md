@@ -7,7 +7,7 @@ author_profile: true
 
 **GemmaX: Multilingual Translator based on Gemma Open Models**
 ------
-[GemmaX](https://github.com/xiaomi-research/gemmax) are many-to-many LLM-based multilingual translation models, which adopt multilingual continual pretraining with Parallel-First Monolingual-Second (PFMS) data mixing strategy and instruction finetuning with high-quality translation prompts.
+[GemmaX](https://github.com/xiaomi-research/gemmax) is a family of many-to-many LLM-based multilingual translation models that adopt multilingual continual pretraining with a Parallel-First Monolingual-Second (PFMS) data mixing strategy and instruction fine-tuning with high-quality translation prompts.
 
 <div  align="center">
 <img src='/images/gemmax.png' width='450' height='253'>
@@ -15,7 +15,7 @@ author_profile: true
 
 **Forte: Composing Diverse NLP Tools for Text Retrieval, Analysis and Generation**
 ------
-[Forte](https://github.com/asyml/forte) is a flexible composable system designed for text processing, providing integrated architecture support for a wide spectrum of tasks, from Information Retrieval to tasks in Natural Language Processing (including text analysis and language generation). Empowered by principled abstraction and design principles, Forte provides a platform to gather cutting-edge NLP and ML technologies in a composable manner.
+[Forte](https://github.com/asyml/forte) is a flexible, composable system designed for text processing, providing integrated architecture support for a wide spectrum of tasks, from Information Retrieval to Natural Language Processing (including text analysis and language generation). Built on principled abstractions and design patterns, Forte provides a platform to gather cutting-edge NLP and ML technologies in a composable manner.
 
 <div  align="center">
 <img src='/images/forte.png' width='450' height='135'>
@@ -23,7 +23,7 @@ author_profile: true
 
 **Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation**
 ------
-[Texar-PyTorch](https://github.com/asyml/texar-pytorch) is an open-source toolkit based on PyTorch, aiming to support a broad set of machine learning especially text generation tasks, such as machine translation, dialog, summarization, content manipulation, language modeling, and so on. Texar is designed for both researchers and practitioners for fast prototyping and experimentation.
+[Texar-PyTorch](https://github.com/asyml/texar-pytorch) is an open-source toolkit based on PyTorch, aiming to support a broad set of machine learning tasks, especially text generation tasks such as machine translation, dialog, summarization, content manipulation, and language modeling. Texar is designed for both researchers and practitioners for fast prototyping and experimentation.
 
 <div  align="center">
 <img src='/images/texar.png' width='450' height='150'>
