@@ -5,6 +5,8 @@ title: "Publications"
 author_profile: true
 ---
 
+\* denotes equal contribution.
+
 **Thesis**
 ------
 High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applications in Synchrophasor Data Analysis in Power Systems.
