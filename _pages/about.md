@@ -14,6 +14,23 @@ I am currently a Research Engineer & Tech Lead Manager working on Multilingual L
 **Prospective Research Interns**: I am looking for highly motivated PhD / Master students with a background in Artificial Intelligence / Machine Learning / Natural Language Processing. Please contact me along with your resume if you are interested.
 
 
+**News**
+------
+
+<div style="height: 220px; overflow-y: auto; border: 1px solid #e1e1e1; border-radius: 4px; padding: 0.6em 1em 0.6em 1.2em; margin-bottom: 1.2em;">
+  <ul style="margin: 0; padding-left: 1.2em;">
+    <li><strong>May 2026</strong> — Two papers accepted to ICML 2026.</li>
+    <li><strong>Apr 2026</strong> — Three papers accepted to ACL 2026 Findings.</li>
+    <li><strong>Mar 2026</strong> — One paper accepted to MobiSys 2026.</li>
+    <li><strong>Jan 2026</strong> — Three papers accepted to ICLR 2026.</li>
+    <li><strong>Aug 2025</strong> — One paper accepted to EMNLP 2025 (Oral).</li>
+    <li><strong>Jan 2025</strong> — One paper accepted to NAACL 2025.</li>
+    <li><strong>Sep 2024</strong> — Two papers accepted to EMNLP 2024.</li>
+    <li><strong>Mar 2024</strong> — One paper accepted to NAACL 2024.</li>
+  </ul>
+</div>
+
+
 **Contact**
 ------
 Chinese name: 高鹏至  
