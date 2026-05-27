@@ -19,7 +19,7 @@ G. Liu, J. Ye, **P. Gao**, W. Liu, J. Luan, Y. Liu, and Y. Li, "SimuWoB: Simulat
 
 Y. Shang, **P. Gao**, Y. Yang, J. Ma, W. Liu, J. Luan, and J. Su, "ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation." arXiv preprint arXiv:2603.14903, 2026.
 
-Y. Shang, **P. Gao**, W. Liu, J. Luan, and J. Su, "Scaling Model and Data for Multilingual Machine Translation with Open Large Language Models." arXiv preprint arXiv:2602.11961, 2026. (The first two authors contributed equally to this paper) [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/xiaomi-research/milmmt-46)]
+Y. Shang*, **P. Gao***, W. Liu, J. Luan, and J. Su, "Scaling Model and Data for Multilingual Machine Translation with Open Large Language Models." arXiv preprint arXiv:2602.11961, 2026. (The first two authors contributed equally to this paper) [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/xiaomi-research/milmmt-46)]
 
 T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
 
