@@ -5,6 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 
+**Awesome World Models for Digital Agents**
+------
+[Awesome World Models for Digital Agents](https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents) is a curated list and accompanying survey of world models for digital agents across games, web & GUI, tool use, and code. The survey introduces a unified design space W = (X, L, U): what is modeled (X), how it is built (L), and how it is used by the agent (U).
+
+<div  align="center">
+<img src='/images/world_models_banner.png' width='700'>
+</div>
+
 **GemmaX: Multilingual Translator based on Gemma Open Models**
 ------
 [GemmaX](https://github.com/xiaomi-research/gemmax) is a family of many-to-many LLM-based multilingual translation models that adopt multilingual continual pretraining with a Parallel-First Monolingual-Second (PFMS) data mixing strategy and instruction fine-tuning with high-quality translation prompts.

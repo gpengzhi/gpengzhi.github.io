@@ -21,9 +21,12 @@ I am an older version of the guy on the left and currently a Research Engineer &
   <ul style="margin: 0; padding-left: 1.2em;">
     <li>🎉 <strong>May 2026</strong> — Two papers accepted to ICML 2026.</li>
     <li>🎉 <strong>Apr 2026</strong> — Three papers accepted to ACL 2026 Findings.</li>
+    <li>🚀 <strong>Apr 2026</strong> — Released our curated list <a href="https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents">Awesome World Models for Digital Agents</a>.</li>
     <li>🎉 <strong>Mar 2026</strong> — One paper accepted to MobiSys 2026.</li>
+    <li>🚀 <strong>Feb 2026</strong> — Released <a href="https://huggingface.co/collections/xiaomi-research/milmmt-46">MiLMMT-46</a>, our 46-language translation models.</li>
     <li>🎉 <strong>Jan 2026</strong> — Three papers accepted to ICLR 2026.</li>
     <li>🎉 <strong>Aug 2025</strong> — One paper accepted to EMNLP 2025.</li>
+    <li>🚀 <strong>Feb 2025</strong> — Released <a href="https://huggingface.co/collections/ModelSpace/gemmax2">GemmaX2</a>, our 28-language translation models.</li>
     <li>🎉 <strong>Jan 2025</strong> — One paper accepted to NAACL 2025.</li>
     <li>🎉 <strong>Sep 2024</strong> — Two papers accepted to EMNLP 2024.</li>
     <li>🎉 <strong>Mar 2024</strong> — One paper accepted to NAACL 2024.</li>
