@@ -1,200 +1,336 @@
-% !TEX TS-program = xelatex
-% !TEX encoding = UTF-8 Unicode
-% !Mode:: "TeX:UTF-8"
-
 \documentclass{resume}
-\usepackage{zh_CN-Adobefonts_external} % Simplified Chinese Support using external fonts (./fonts/zh_CN-Adobe/)
-%\usepackage{zh_CN-Adobefonts_internal} % Simplified Chinese Support using system fonts
-\usepackage{linespacing_fix} % disable extra space before next section
+\usepackage{zh_CN-Adobefonts_external} 
+\usepackage{linespacing_fix}
 \usepackage{cite}
 
 \begin{document}
-\pagenumbering{gobble} % suppress displaying page number
+\pagenumbering{gobble}
 
+%***"%"后面的所有内容是注释而非代码，不会输出到最后的PDF中
+%***使用本模板，只需要参照输出的PDF，在本文档的相应位置做简单替换即可
+%***修改之后，输出更新后的PDF，只需要点击Overleaf中的“Recompile”按钮即可
+%**********************************姓名********************************************
 \name{高鹏至}
+%**********************************联系信息****************************************
+%第一个括号里写手机号，第二个写邮箱
+\contactInfo{(+86) 15810512592}{gpengzhi@gmail.com}
+\otherInfo{个人主页：https://gpengzhi.github.io/}{}{}{}
+\otherInfo{地址：北京市海淀区西二旗中路33号小米科技园}{}{}{}
+%**********************************其他信息****************************************
+%在大括号内填写其他信息，最多填写4个，但是如果选择不填信息，
+%那么大括号必须空着不写，而不能删除大括号。
+%\otherInfo后面的四个大括号里的所有信息都会在一行输出
+%如果想要写两行，那就用两次这个指令（\otherInfo{}{}{}{}）即可
+%\otherInfo{性别：男}{籍贯：江南}{}{}
+%\otherInfo{来历：钱钟书《围城》}{}{}{}
+%*********************************照片**********************************************
+%照片需要放到images文件夹下，名字必须是you.jpg，如果不需要照片可以不添加此行命令
+%0.15的意思是，照片的宽度是页面宽度的0.15倍，调整大小，避免遮挡文字
+%\yourphoto{0.15}
+%**********************************正文**********************************************
 
-% {E-mail}{mobilephone}{homepage}
-% be careful of _ in emaill address
-\contactInfo{(+1) 215-696-0238}{gpengzhi@gmail.com}{}{http://gpengzhi.github.io}
-% {E-mail}{mobilephone}
-% keep the last empty braces!
-%\contactInfo{xxx@yuanbin.me}{(+86) 131-221-87xxx}{}
- 
-% \section{个人总结}
-% 本人在校成绩优秀、乐观向上，工作负责、自我驱动力强、热爱尝试新事物，认同开放、连接、共享的Web在未来的不可替代性。在校期间长期从事可视分析(Web的2D/3D时空可视化)相关研究，对Web技术发展趋势及前端工程化解决方案有浓厚兴趣。\textbf{现任职于阿里巴巴集团。}
+%***大标题，下面有横线做分割
+%***一般的标题有：教育背景，实习（项目）经历，工作经历，自我评价，求职意向，等等
+\
 
-% \section{\faGraduationCap\ 教育背景}
 \section{教育背景}
-\datedsubsection{\textbf{伦斯勒理工学院}，特洛伊，美国}
-\ \textit{工学博士}，电子工程，{2013.8 - 2017.12}
-\begin{itemize}
-	\item 导师：汪孟教授
-	\item  博士论文： High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applications in Synchrophasor Data Analysis in Power Systems
-\end{itemize}
-\datedsubsection{\textbf{宾夕法尼亚大学}，费城，美国}
-\ \textit{工学硕士}，电子工程，{2011.8 - 2013.5}
-\datedsubsection{\textbf{西安电子科技大学}，西安，中国}
-\ \textit{工学学士} (优秀毕业生)，电子信息工程，{2007.8 - 2011.5}
-% \ 2014年中国政府奖学金(\textit{http://www.csc.edu.cn/}),DID-ACTE项目交换生(\textit{http://did-acte.org/})
 
-% \section{\faCogs\ IT 技能}
-% \section{技术能力}
-% increase linespacing [parsep=0.5ex]
-% \begin{itemize}[parsep=0.2ex]
-%   \item \textbf{编程语言}: JavaScript (ECMAScript, Node.js), HTML/CSS, Python, Go, SQL, C, Shell
-%   \item \textbf{操作系统,数据库与工程构建}: Linux/macOS/MySQL/MongoDB/Git/webpack/Progressive Web App
-%   \item \textbf{关键词}: React/Vue.js/D3.js(SVG)/three.js(canvas, WebGL)/chrome extension/Express
+%***********一行子标题**************
+%***第一个大括号里的内容向左对齐，第二个大括号里的内容向右对齐
+%***\textbf{}括号里的字是粗体，\textit{}括号里的字是斜体
+\datedsubsection{\textbf{伦斯勒理工学院}，特洛伊，纽约州，美国}{2013年8月 - 2017年12月}
+\ \textit{工学博士}，电子工程
+
+%***********列举*********************
+%***可添加多个\item，得到多个列举项，类似的也可以用\textbf{}、\textit{}做强调
+% \begin{itemize} [parsep=1ex]
+%   \item 导师：汪孟教授
+%   \item 博士论文：High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applications in Synchrophasor Data Analysis in Power Systems
 % \end{itemize}
 
-% \end{itemize}
+\datedsubsection{\textbf{宾夕法尼亚大学}，费城，宾夕法尼亚州，美国}{2011年9月 - 2013年5月}
+\ \textit{工学硕士}，电子工程
 
+\datedsubsection{\textbf{西安电子科技大学}，西安，中国}{2007年8月 - 2011年7月}
+\ \textit{工学学士} (优秀毕业生)，电子信息工程
 
-\section{研究方向}
-我的研究方向包括信号处理，高维数据分析和机器学习。
-%My research interests lie in the intersection of the fields of signal processing, high-dimensional statistics, and machine learning. % I am particularly interested in developing low-dimensional models and optimization methods with applications in image processing and power system monitoring.
+\
+
+%\section{研究方向}
+%我的研究方向包括信号处理，高维数据分析和自然语言处理。我特别关注优化算法与训练策略在智能电网、机器翻译与大语言模型中的应用。
+
+%\
 
 \section{工作经历}
-\datedsubsection{\textbf{槃腾科技 | Petuum}，数据科学家}{2018.2-至今}
+
+\datedsubsection{\textbf{高级算法工程师 \& 技术经理}}{2024年6月 - 至今}
 \begin{itemize}
-\item 设计并开发用于 Petuum 人工智能开发平台的机器学习算法库 (基于 TensorFlow, Dynet 和 LightGBM)。
-\item 设计并开发基于 PyTorch 的机器学习与文本生成工具箱 Texar-PyTorch (https://github.com/asyml/texar-pytorch，在 GitHub 上获得超过545 stars)。
-\item 开发并维护基于 TensorFlow 的机器学习与文本生成工具箱 Texar-TensorFlow (https://github.com/asyml/texar，在GitHub上获得超过1880 stars)。
-\item 设计并开发用于文本处理的自然语言处理流水线工具 Forte (https://github.com/asyml/forte)。
+\item[] 大模型团队，\textbf{小米}，北京，中国
+\item 带领由 15 名研究员、工程师和实习生组成的跨职能 UI Agent 与 Agentic RL 团队，构建原生 GUI Agent 模型，为小爱同学实现“一步直达”能力，使其能够自主完成多步骤的 GUI 任务。
+\item 训练多语言翻译大模型GemmaX (NAACL 2025)，在 Hugging Face 机器翻译模型类别取得 Trending 第一并获得超过 20 万的下载量，提升小爱翻译效果并支持28个语种的互译。
 \end{itemize}
 
-\datedsubsection{\textbf{微软亚洲研究院 |  Microsoft Research Asia}，研究实习生}{2010.12-2011.5}
+\datedsubsection{\textbf{资深研发工程师}}{2020年9月 - 2024年6月}
 \begin{itemize}
-\item 分析采集于Intel-Berkeley实验室的54个传感器的数据 (150MB)，并探究其时域关联性。提出并开发了一种用于无线传感器网络数据采集的联合来源网络编码机制。
+\item[] 自然语言处理部，\textbf{百度}，北京，中国
+\item 训练支持 220+ 语种的多语言句向量模型 MuSR (EMNLP 2023 Industry Track)，该模型被用于百度翻译双语数据挖掘系统中并持续产出高质量平行语料。
+\item 提出一种有效提升多语言机器翻译零资源方向效果的训练机制（ACL 2023 Findings），基于该策略开发多语言模型训练流程，提升百度多语言翻译系统的翻译效果，支持百度翻译200+语种互译。
+\item 设计 Bi-SimCut，一种简单有效地提升机器翻译效果的训练机制（NAACL 2022），基于该策略开发模型训练流程，提升百度翻译模型的翻译效果。
 \end{itemize}
 
+\datedsubsection{\textbf{数据科学家 / 机器学习工程师}}{2018年2月 - 2020年4月}
+\begin{itemize}
+\item[] 机器学习团队，\textbf{Petuum}，匹兹堡，宾夕法尼亚州，美国
+\item 设计并开发用于 Petuum 人工智能开发平台的机器学习算法库（基于 TensorFlow, Dynet 和 LightGBM）。
+\item 设计并开发基于 PyTorch 的机器学习与文本生成工具 Texar-PyTorch（在 GitHub 上获得超过 745 个星标）；维护并开发基于 TensorFlow 的机器学习与文本生成工具 Texar（在 GitHub 上获得超过 2390 个星标）。
+\item 设计并开发用于文本处理的自然语言处理流水线工具 Forte（在 GitHub 上获得超过 250 个星标，EMNLP 2020 System Demonstrations）。
+\end{itemize}
+
+\datedsubsection{\textbf{研究实习生}}{2010年12月 - 2011年5月}
+\begin{itemize}
+\item[] 网络多媒体组，\textbf{微软亚洲研究院}，北京，中国
+\item 分析采集于Intel-Berkeley实验室的54个传感器的数据，探究其时域关联性。提出并开发了一种用于无线传感器网络数据采集的联合来源网络编码机制。
+\end{itemize}
+
+\
 
 \section{技术能力}
 % increase linespacing [parsep=0.5ex]
 \begin{itemize}[parsep=0.2ex]
-\item 熟练：MATLAB, Python, Dynet, PyTorch, TensorFlow
-\item 有经验：Java, R, C/C++, C\#, AMPL
+\item 研究领域：生成式 AI，LLM/VLM 智能体，机器学习，自然语言处理，信号处理，高维统计
+\item 编程语言：Python $>$ C/C++ $=$ Matlab $>$ Java $=$ R
+\item 软件：PyTorch, TensorFlow, Keras, Scikit-learn, Linux, MacOS, Git
 \end{itemize}
 
+\
 
 \section{获奖情况}
 % increase linespacing [parsep=0.5ex]
 \begin{itemize}[parsep=0.2ex]
-\item \datedsubsection{IBM Watson Build Challenge 北美决赛入围者}{2017}
-\item \datedsubsection{论文被选为 runner-up of the Best Paper in Electric Energy Systems Track of Hawaii International Conference on System Sciences}{2015}
-\item \datedsubsection{Founders Award of Excellence (前1\%)}{2015}
-\item \datedsubsection{论文被选为 one of the Best Conference Papers on Power System Analysis and Modeling of IEEE Power \& Energy Society General Meeting}{2014}
-\item \datedsubsection{西安电子科技大学优秀毕业生 (前1\%)}{2011}
-\item \datedsubsection{国家奖学金 (前1\%)}{2010}
-\item \datedsubsection{西安电子科技大学一等奖学金 (前2\%)}{2008-2010}
-\item \datedsubsection{西安电子科技大学学习标兵 (前1\%)}{2008}
+\item \datedsubsection{IBM Watson Build Challenge 北美总决赛入围者}{2017年}
+\item \datedsubsection{论文被选为 runner-up for the Best Paper in Electric Energy Systems Track at Hawaii International Conference on System Sciences}{2015年}
+\item \datedsubsection{Founders Award of Excellence (前1\%)}{2015年}
+\item \datedsubsection{论文被选为 one of the Best Conference Papers on Power System Analysis and Modeling at IEEE Power \& Energy Society General Meeting}{2014年}
+\item \datedsubsection{西安电子科技大学优秀毕业生 (前1\%)}{2011年}
+\item \datedsubsection{国家奖学金 (全国前 0.2\%)}{2010年}
+\item \datedsubsection{西安电子科技大学一等奖学金 (前2\%)}{2008年 - 2010年}
+\item \datedsubsection{西安电子科技大学学习标兵 (前1\%)}{2008年}
 \end{itemize}
 
+\
+
+\section{预印论文 \& 技术报告}
+$^*$ 表示同等贡献.
+
+\begin{itemize}[parsep=0.2ex]
+
+\item {G. Liu, J. Ye, {\bf P. Gao}, W. Liu, J. Luan, Y. Liu, and Y. Li. ``SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking.'' \emph{arXiv: 2605.25160}, 2026.}
+
+\item {W. Xu, K. Huang, Y. Feng, J. Li, Y. Chen, Y. Liu, Z. Jiang, H. Qu, {\bf P. Gao}, W. Liu, J. Luan, X. Hu, and B. An. ``How Mobile World Model Guides GUI Agents?'' \emph{arXiv: 2605.10347}, 2026.}
+
+\item {Y. Chen$^*$, {\bf P. Gao}$^*$, Q. Wu, K. Huang, Y. Liu, H. Qu, K. Shao, and J. Luan. ``Digital Agents Meet World Models: A Survey.'' May, 2026.}
+
+\item {Y. Shang, {\bf P. Gao}, Y. Yang, J. Ma, W. Liu, J. Luan, and J. Su. ``ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation.'' \emph{arXiv: 2603.14903}, 2026.}
+
+\item {Y. Shang$^*$, {\bf P. Gao}$^*$, W. Liu, J. Luan, and J. Su. ``Scaling Model and Data for Multilingual Machine Translation with Open Large Language Models.'' \emph{arXiv: 2602.11961}, 2026.}
+
+\item {T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, {\bf P. Gao}, W. Liu, J. Luan, and S. Zhang. ``GUI-PRA: Process Reward Agent for GUI Tasks.'' \emph{arXiv: 2509.23263}, 2025.}
+
+\item {L. Gao, L. Zhang, S. Wang, {\bf P. Gao}, W. Liu, J. Luan, S. Wang, Y. Li, M. Xu. ``MobileViews: A Million-scale and Diverse Mobile GUI Dataset.'' \emph{arXiv: 2409.14337}, 2024.}
+
+\item {{\bf P. Gao}, Z. He, H. Wu, and H. Wang. ``Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models." \emph{arXiv: 2401.05861}, 2024.}
+
+\item {R. Wang$^*$, {\bf P. Gao}$^*$, and M. Wang. ``Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." \emph{DOI: 10.21203/rs.3.rs-420556/v1}, 2021.}
+
+\item {Z. Hu, {\bf P. Gao}, A. Bukkittu, and Z. Hu. ``Introducing Texar-PyTorch: An ML Library integrating the best of TensorFlow into PyTorch." October, 2019.}
+
+\end{itemize}
+
+\
 
 \section{期刊论文}
-% increase linespacing [parsep=0.5ex]
-\begin{itemize}[parsep=0.2ex]
-\item {{\bf P. Gao}, R. Wang, and M. Wang. ``Robust Matrix Completion by Exploiting Dynamic Low-dimensional Structures." \emph{submitted to IEEE Transactions on Signal Processing}, 2019.}
 
-\item {{\bf P. Gao}, R. Wang, M. Wang, and J. H. Chow. ``Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." \emph{IEEE Transactions on Signal Processing}, 2018, 66 (11): 2918-2932.}
+\begin{itemize}[parsep=0.2ex]
+
+\item {{\bf P. Gao}$^*$, R. Wang$^*$, M. Wang, and J. H. Chow. ``Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." \emph{IEEE Transactions on Signal Processing}, 2018, 66 (11): 2918-2932.}
 
 \item {{\bf P. Gao}, M. Wang, J. H. Chow, M. Berger, and L. M. Seversky. ``Missing Data Recovery for High-dimensional Signals with Nonlinear Low-dimensional Structures." \emph{IEEE Transactions on Signal Processing}, 2017, 65 (20): 5421-5436.}
 
 \item {{\bf P. Gao}, M. Wang, J. H. Chow, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. ``Identification of Successive ``Unobservable'' Cyber Data Attacks in Power Systems Through Matrix Decomposition." \emph{IEEE Transactions on Signal Processing}, 2016, 64 (21): 5557-5570.}
 
-\item {{\bf P. Gao}, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos. ``Missing Data Recovery by Exploiting Low-dimensionality in Power System Synchrophasor \\ Measurements." \emph{IEEE Transactions on Power Systems}, 2016, 31 (2): 1006-1013.}
+\item {{\bf P. Gao}, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos. ``Missing Data Recovery by Exploiting Low-dimensionality in Power System Synchrophasor Measurements." \emph{IEEE Transactions on Power Systems}, 2016, 31 (2): 1006-1013.}
 \end{itemize}
 
+\
 
 \section{会议论文}
-% increase linespacing [parsep=0.5ex]
+
 \begin{itemize}[parsep=0.2ex]
-\item {M. Wang, J. H. Chow, Y. Hao, S. Zhang, W. Li, R. Wang, {\bf P. Gao}, C. Lackner, E. Farantatos, and M. Patel. ``A Low-rank Framework of PMU Data Recovery and Event Identification.'' \emph{Proc. of the First IEEE International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA)}, College Station, Texas, May, 2019.}
 
-\item {G. Mijolla, S. Konstantinouplos, {\bf P. Gao}, J. H. Chow, and M. Wang. ``An Evaluation of Low-Rank Matrix Completion Algorithms for Synchrophasor Missing Data Recovery." \emph{Proc. of the 20th Power Systems Computation Conference (PSCC)}, Dublin, Ireland, Jun. 2018.}
+\item {H. Qu$^*$, Y. Liu$^*$, R. Jin, W. Zhang, {\bf P. Gao}, W. Liu, and J. Luan. ``Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation.'' \emph{Proc. of the 43rd International Conference on Machine Learning (ICML)}, 2026.}
 
-\item {{\bf P. Gao}, and M. Wang. ``Dynamic Matrix Recovery from Partially Observed and Erroneous Measurements." \emph{Proc. of the International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, Calgary, Canada, Apr. 2018.}
+\item {Y. Liu, W. Xu, K. Huang, C. Chen, J. Zhao, {\bf P. Gao}, W. Liu, J. Luan, S. Shang, B. Du, J. Wen, and R. Yan. ``CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning.'' \emph{Proc. of the 43rd International Conference on Machine Learning (ICML)}, 2026.}
 
-\item {M. Wang, J. H. Chow, {\bf P. Gao}, Y. Hao, W. Li, and R. Wang. ``Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures." \emph{Proc. of the 10th Bulk Power Systems Dynamics and Control Symposium (IREP)}, Espinho, Portugal, Aug. 2017.}
+\item {Q. Wu$^*$, Z. Yang$^*$, H. Li, {\bf P. Gao}, W. Liu, and J. Luan. ``MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment.'' \emph{Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)}, 2026.}
 
-\item {{\bf P. Gao}, R. Wang, and M. Wang. ``Quantized Low-rank Matrix Recovery with Erroneous Measurements: Application to Data Privacy in Power Grids." \emph{Proc. of Asilomar Conference on Signals, Systems, and Computers}, Pacific Grove, CA, Nov. 2016.}
+\item {Y. Chen, Y. Liu, L. Zhang, {\bf P. Gao}, J. Luan, and W. Liu. ``STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization.'' \emph{Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)}, 2026.}
 
-\item {{\bf P. Gao}, M. Wang, and J. H. Chow. ``Matrix Completion with Columns in Union and Sums of Subspaces." \emph{Proc. of IEEE Global Conference on Signal and Information Processing (GlobalSIP)}, Orlando, FL, Dec. 2015.}
+\item {R. Jin, {\bf P. Gao}, Y. Ren, Z. Han, T. Zhang, W. Huang, W. Liu, J. Luan, and D. Xiong. ``Revisiting Entropy in Reinforcement Learning for Large Reasoning Models.'' \emph{Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)}, 2026.}
 
-\item {M. Wang, J. H. Chow, {\bf P. Gao}, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky. ``A Low-Rank Matrix approach for the Analysis of Large Amounts of Synchrophasor Data." \emph{Proc. of Hawaii International Conference on System Sciences (\textcolor{red}{Runner-up of Best Paper in Electric Energy Systems Track})}, Kauai, Hawaii, Jan. 2015.}
+\item {G. Liu, J. Ye, J. Liu, W. Liu, {\bf P. Gao}, J. Luan, Y. Li, and Y. Liu. ``Mobile GUI Agents under Real-world Threats: Are We There Yet?'' \emph{Proc. of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)}, 2026.}
 
-\item {M. Wang, {\bf P. Gao}, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. ``Identification of ``Unobservable'' Cyber Data Attacks on Power Grids." \emph{Proc. of IEEE SmartGridComm}, Venice, Italy, Nov. 2014.}
+\item {K. Huang, W. Xu, Y. Liu, Q. Wang, {\bf P. Gao}, W. Liu, J. Luan, B. Wang, and B. An. ``MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning.'' \emph{Proc. of the 14th International Conference on Learning Representations (ICLR)}, 2026.}
 
-\item {{\bf P. Gao}, M. Wang, S. G. Ghiocel, and J. H. Chow. ``Modeless Reconstruction of Missing Synchrophasor Measurements." \emph{Proc. of IEEE Power \& Energy Society General Meeting (\textcolor{red}{selected in Best Conference Paper sessions})}, Washington, DC, Jul. 2014.}
+\item {W. Xu, Z. Jiang, Y. Liu, {\bf P. Gao}, W. Liu, J. Luan, Y. Li, Y. Liu, B. Wang, and B. An. ``SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks.'' \emph{Proc. of the 14th International Conference on Learning Representations (ICLR)}, 2026.}
+
+\item {L. Gao, L. Zhang, {\bf P. Gao}, W. Liu, J. Luan, and M. Xu. ``GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning.'' \emph{Proc. of the 14th International Conference on Learning Representations (ICLR)}, 2026.}
+
+\item {G. Liu, J. Ye, J. Liu, Y. Li, W. Liu, {\bf P. Gao}, J. Luan, and Y. Liu. ``Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties.'' \emph{Proc. of the Workshop on Edge and Mobile Foundation Models (EdgeFM)}, 2025.}
+
+\item {Q. Wu, {\bf P. Gao}, W. Liu, and J. Luan. ``BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism.'' \emph{Proc. of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, 2025.}
+
+\item {M. Cui$^*$, {\bf P. Gao}$^*$, W. Liu, J. Luan, and B. Wang. ``Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study.'' \emph{Proc. of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)}, 2025.}
+
+\item {M. Sun, W. Liu, J. Luan, {\bf P. Gao}, and B. Wang. ``Mixture of Diverse Size Experts.'' \emph{Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track}, 2024.}
+
+\item {J. Du, Y. Wang, W. Zhao, Z. Deng, S. Liu, R. Lou, H. P. Zou, P. N. Venkit, N. Zhang, M. Srinath, H. R. Zhang, V. Gupta, Y. Li, T. Li, F. Wang, Q. Liu, T. Liu, {\bf P. Gao}, C. Xia, C. Xing, J. Cheng, Z. Wang, Y. Su, R. S. Shah, R. Guo, J. Gu, H. Li, K. Wei, Z. Wang, L. Cheng, S. Ranathunga, M. Fang, J. Fu, F. Liu, R. Huang, E. Blanco, Y. Cao, R. Zhang, P. S. Yu, and W. Yin. ``LLMs assist NLP Researchers: Critique Paper (Meta-)Reviewing.'' \emph{Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, 2024.}
+
+\item {{\bf P. Gao}, R. Zhang, Z. He, H. Wu, and H. Wang. ``An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation." \emph{Proc. of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)}, 2024.}
+
+\item {{\bf P. Gao}, L. Zhang, Z. He, H. Wu, and H. Wang. ``Learning Multilingual Sentence Representations with Cross-lingual Consistency Regularization." \emph{Proc. of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track}, 2023.}
+
+\item {{\bf P. Gao}, L. Zhang, Z. He, H. Wu, and H. Wang. ``Improving Zero-shot Multilingual Neural Machine Translation by Leveraging Cross-lingual Consistency Regularization.'' \emph{Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)}, 2023.}
+
+\item {{\bf P. Gao}, Z. He, H. Wu, and H. Wang. ``Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation.'' \emph{Proc. of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)}, 2022.}
+
+\item {J. Li, {\bf P. Gao}, X. Wu, Y. Feng, Z. He, H. Wu, and H. Wang. ``Mixup Decoding for Diverse Machine Translation.'' \emph{Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, 2021.}
+
+\item {R. Wang, T. Chen, Z. Xu, and {\bf P. Gao}. ``Robust Low-Rank Tensor Recovery From Quantized and Corrupted Measurements.'' \emph{Proc. of Asilomar Conference on Signals, Systems, and Computers}, 2021.}
+
+\item {Z. Liu, G. Ding, A. Bukkittu, M. Gupta, {\bf P. Gao}, A. Ahmed, S. Zhang, X. Gao, S. Singhavi, L. Li, W. Wei, Z. Hu, H. Shi, X. Liang, T. Mitamura, E. P. Xing, and Z. Hu. ``A Data-Centric Framework for Composable NLP Workflows.'' \emph{Proc. of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations}, 2020.}
+
+\item {M. Wang, J. H. Chow, Y. Hao, S. Zhang, W. Li, R. Wang, {\bf P. Gao}, C. Lackner, E. Farantatos, and M. Patel. ``A Low-rank Framework of PMU Data Recovery and Event Identification.'' \emph{Proc. of the First IEEE International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA)}, 2019.}
+
+\item {G. M. De Mijolla, S. Konstantinopoulos, {\bf P. Gao}, J. H. Chow, and M. Wang. ``An Evaluation of Algorithms for Synchrophasor Missing Data Recovery." \emph{Proc. of the 20th Power Systems Computation Conference (PSCC)}, 2018.}
+
+\item {{\bf P. Gao} and M. Wang. ``Dynamic Matrix Recovery from Partially Observed and Erroneous Measurements." \emph{Proc. of the International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 2018.}
+
+\item {M. Wang, J. H. Chow, {\bf P. Gao}, Y. Hao, W. Li, and R. Wang. ``Recent Results of PMU Data Analytics by Exploiting Low-dimensional Structures." \emph{Proc. of the 10th Bulk Power Systems Dynamics and Control Symposium (IREP)}, 2017.}
+
+\item {{\bf P. Gao}, R. Wang, and M. Wang. ``Quantized Low-rank Matrix Recovery with Erroneous Measurements: Application to Data Privacy in Power Grids." \emph{Proc. of Asilomar Conference on Signals, Systems, and Computers}, 2016.}
+
+\item {{\bf P. Gao}, M. Wang, and J. H. Chow. ``Matrix Completion with Columns in Union and Sums of Subspaces." \emph{Proc. of IEEE Global Conference on Signal and Information Processing (GlobalSIP)}, 2015.}
+
+\item {M. Wang, J. H. Chow, {\bf P. Gao}, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky. ``A Low-Rank Matrix Approach for the Analysis of Large Amounts of Power System Synchrophasor Data." \emph{Proc. of Hawaii International Conference on System Sciences (\textcolor{red}{Runner-up of Best Paper in Electric Energy Systems Track})}, 2015.}
+
+\item {M. Wang, {\bf P. Gao}, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky. ``Identification of ``Unobservable'' Cyber Data Attacks on Power Grids." \emph{Proc. of IEEE SmartGridComm}, 2014.}
+
+\item {{\bf P. Gao}, M. Wang, S. G. Ghiocel, and J. H. Chow. ``Modeless Reconstruction of Missing Synchrophasor Measurements." \emph{Proc. of IEEE Power \& Energy Society General Meeting (\textcolor{red}{Best Conference Papers on Power System Analysis and Modeling})}, 2014.}
 \end{itemize}
 
-
-\section{技术报告}
-% increase linespacing [parsep=0.5ex]
-\begin{itemize}[parsep=0.2ex]
-\item {Zecong Hu, {\bf Pengzhi Gao}, Avinash Bukkittu, and Zhiting Hu. ``Introducing Texar-PyTorch: An ML Library integrating the best of TensorFlow into PyTorch." Octorber, 2019.}
-\end{itemize}
-
+\
 
 \section{专利}
 % increase linespacing [parsep=0.5ex]
 \begin{itemize}[parsep=0.2ex]
-\item {Meng Wang, {\bf Pengzhi Gao}, and Joe H. Chow. ``A low-rank-based missing PMU data recovery method." Application No.: 62/445305, Filed January 12, 2017.}
+
+\item {{\bf P. Gao}, R. Zhang, Z. He, and H. Wu. ``Method and device for training speech translation model, and storage medium.'' Application No.: US18/930,081, Filed October 29, 2024.}
+
+\item {{\bf P. Gao}, Z. He, and H. Wu. ``用于多语言翻译的语言模型的训练方法及翻译方法." Application No.: CN202311759677.9, Filed December 20, 2023.}
+
+\item {{\bf P. Gao}, R. Zhang, Z. He, and H. Wu. ``语音翻译模型的训练方法、语音翻译方法和装置." Application No.: CN202311622229.4, Filed November 30, 2023.}
+
+\item {{\bf P. Gao}, L. Zhang, Z. He, Z. Li, and H. Wu. ``多语言的句向量的获取方法和多语言的编码器的训练方法." Application No.: CN202310395274.4, Filed April 13, 2023.}
+
+\item {{\bf P. Gao}, Z. He, Z. Li, and H. Wu. ``深層学習モデルのトレーニング方法及び装置、テキストデータ処理方法及び装置、電子機器、記憶媒体、並びにコンピュータプログラム." Application No.: JP2022-190230, Filed November 29, 2022.}
+
+\item {{\bf P. Gao}, Z. He, Z. Li, and H. Wu. ``Method of training deep learning model and method of processing text data." Application No.: US18/059,389, Filed November 28, 2022.}
+
+\item {{\bf P. Gao}, Z. He, Z. Li, and H. Wu. ``深度学习模型的训练方法、文本数据处理方法和装置." Application No.: CN202210189268.9, Filed February 28, 2022.}
+
+\item {{\bf P. Gao}, Z. He, Z. Li, and H. Wu. ``一种模型训练方法、装置、电子设备及存储介质." Application No.: CN202210186688.1, Filed February 28, 2022.}
+
+\item {{\bf P. Gao}, Z. He, H. Wu, and H. Wang. ``用于训练模型的方法、装置、设备、介质和程序产品." Application No.: CN202111288550.4, Filed November 2, 2021.}
+
+\item {X. Wan, J. Zhao, M. Wang, Z. He, H. Wu, Z. Li, Z. Xu, J. Liu, {\bf P. Gao}, M. Sun, C. Li, and W. Yao. ``翻译模型的训练方法、装置、电子设备及存储介质." Application No.: CN202111014476.7, Filed August 31, 2021.}
+
+\item {J. Li, {\bf P. Gao}, Z. He, and Z. Li. ``文本翻译方法、装置、电子设备及存储介质." Application No.: CN202110736794.8, Filed June 30, 2021.}
+
+\item {J. Li, {\bf P. Gao}, Z. He, and Z. Li. ``语料生成方法、装置、电子设备以及存储介质." Application No.: CN202110748376.0, Filed June 30, 2021.}
+
+\item {{\bf P. Gao}, Z. He, H. Wu, and H. Wang. ``模型训练方法、装置、电子设备及计算机可读存储介质." Application No.: CN202110320138.X, Filed March 25, 2021.}
+
+\item {M. Wang, {\bf P. Gao}, and J. H. Chow. ``A low-rank-based missing PMU data recovery method." Application No.: 62/445305, Filed January 12, 2017.}
+
 \end{itemize}
 
-% \begin{onehalfspacing}
-% \end{onehalfspacing}
+\
 
-% \datedsubsection{\textbf{DID-ACTE} 荷兰莱顿}{2015年3月 - 2015年6月}
-% \role{本科毕业设计}{LIACS 交换生}
-% 利用结巴分词对中国古文进行分词与词性标注，用已有领域知识训练形成 classifier 并对结果进行调优
-% \begin{onehalfspacing}
-% \begin{itemize}
-%   \item 利用结巴分词对中国古文进行分词与词性标注
-%   \item 利用已有领域知识训练形成 classifier, 并用分词结果进行测试反馈
-%   \item 尝试不同规则，对 classifier 进行调优
-% \end{itemize}
-% \end{onehalfspacing}
+\section{项目经历}
 
-\section{研究经历}
-\datedsubsection{\textbf{伦斯勒理工学院}, 研究助理}{2013.8-2017.12}
+\datedsubsection{\textbf{Forte: A Data-Centric Framework for Composable NLP Workflows}}{}
 \begin{itemize}
-	\item 分析同步相量测量单元（PMU）数据（>200MB）并探究数据的时域与空间域的关联性（低维度特性）。
-	\item 提出一种针对电网网络攻击的检测方法。用采集于纽约州中部电网的实际数据对我们的方法进行了测试。
-	\item 开发了一种针对 PMU 数据的实时重构算法。在 OpenPDC 中用 C\#实现了相应的算法，并将计算时间减少了50\%。
-	\item 提出了一种描述非线性数据的模型。基于这个模型，开发了一种凸优化数据恢复算法。用IEEE 39-bus New England Power System的标准测试数据集对我们的方法进行了测试。
-	\item 针对量化及部分受损的数据，提出了一种数据恢复算法。用采集于纽约州中部电网的实际数据对我们的方法进行了测试。
+\item[] 机器学习团队，\textbf{Petuum}，匹兹堡，宾夕法尼亚州，美国
+\item Forte是一个用于构建自然语言处理（NLP）流水线的工具包，具有可组合组件、便捷的数据接口和跨任务交互的特点。Forte为文本设计了一种通用的数据表示格式，使其成为一个集最新NLP/ML技术于一体的一站式平台，涵盖信息检索、自然语言理解到自然语言生成等多个领域。Forte最初由卡内基梅隆大学（CMU）开发，现由Petuum与其他机构合作积极维护。我是Forte的主要贡献者之一。
 \end{itemize}
 
-\datedsubsection{\textbf{宾夕法尼亚大学}, 研究助理}{2012.5-2013.5}
+\datedsubsection{\textbf{Texar-PyTorch: A Modularized, Versatile, and Extensible Toolkit for Text Generation}}{}
 \begin{itemize}
-	\item 分析来自于 IEEG Portal的 EEG数据，并用于癫痫侦测任务。
-	\item 提出一种针对于 EEG 数据的新字典，并将 EEG 数据恢复效果提升了20\%。
+\item[] 机器学习团队，\textbf{Petuum}，匹兹堡，宾夕法尼亚州，美国
+\item Texar-PyTorch是一个旨在支持广泛机器学习任务，特别是自然语言处理和文本生成任务的工具包。Texar-PyTorch提供了一个易于使用的机器学习模块和功能库，用于构建各种模型和算法。该工具旨在满足研究者和从业者快速原型开发和实验的需求。Texar-PyTorch最初由Petuum和卡内基梅隆大学（CMU）联合其他机构开发。我是Texar-PyTorch的主要贡献者之一。
 \end{itemize}
+
+%\datedsubsection{\textbf{DyNet: The Dynamic Neural Network Toolkit}}{}
+%\begin{itemize}
+%	\item DyNet是由卡内基梅隆大学、Petuum和许多其他公司开发的神经网络库。它是用C++编写的（用Python绑定），它被设计成在CPU或GPU上运行时是高效的，并且能很好地处理具有动态结构的网络，每一个训练实例动态结构都会发生变化。我贡献了DyNet代码库的示例和教程部分。
+%\end{itemize}
+
+\
 
 \section{专业活动}
 \begin{itemize}
-	\item IEEE 学生会员，2013 - 2017。IEEE 会员，2018 - 至今。
-	\item  Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT) 伦斯勒理工学院学生代表。
-	\item 教学助理（伦斯勒理工学院）：\\
-	Modeling and Analysis of Uncertainty，2017年秋季学期, \\
-	Distributed Systems and Sensor Networks，2017年秋季学期。
-	\item 程序委员会成员：\\
-	Conference on Uncertainty in Artificial Intelligence (UAI) 2018。
-	\item 审稿人：\\
-	IEEE Transactions on Smart Grid，\\
-	IEEE Transactions on Automatic Control，\\
-	IEEE/ACM Transactions on Networking，\\
-	IEEE Signal Processing Letters，\\
-	Annals of Mathematics and Artificial Intelligence，\\
-	American Control Conference，\\
-	IEEE International Conference on Communications, Control, and Computing Technologies
-	for Smart Grids (SmartGridComm)，\\
-	International Symposium on Antennas and Propagation。
+\item IEEE 会员，2018年 - 至今。ACL 会员，2022年 - 至今。
+% \item Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT) 伦斯勒理工学院学生代表，2015年 - 2016年。
+% \item 教学助理（伦斯勒理工学院）：\\
+% Modeling and Analysis of Uncertainty，2017年秋季学期, \\
+% Distributed Systems and Sensor Networks，2017年秋季学期。
+\item 领域主席： \\
+The Association for Computational Linguistics Rolling Review (ACL ARR).
+\item 期刊审稿人： \\
+IEEE Transactions on Signal Processing, \\
+IEEE Transactions on Audio, Speech and Language Processing, \\
+IEEE Transactions on Smart Grid, \\
+IEEE Transactions on Automatic Control, \\
+IEEE Transactions on Power Delivery, \\
+IEEE/ACM Transactions on Networking, \\
+IEEE Signal Processing Letters, \\
+Annals of Mathematics and Artificial Intelligence, \\
+Journal of Data-centric Machine Learning Research (DMLR).
+\item 程序委员会成员 / 会议审稿人： \\
+The Conference on Uncertainty in Artificial Intelligence (UAI), \\
+The Annual AAAI Conference on Artificial Intelligence (AAAI), \\
+The Conference on Neural Information Processing Systems (NeurIPS), \\
+The International Conference on Learning Representations (ICLR), \\
+The International Conference on Machine Learning (ICML), \\
+The Association for Computational Linguistics Rolling Review (ACL ARR), \\
+The Annual Meeting of the Association for Computational Linguistics (ACL), \\
+The Conference on Empirical Methods in Natural Language Processing (EMNLP), \\
+The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), \\
+The Conference of the European Chapter of the Association for Computational Linguistics (EACL), \\
+The International Conference on Computational Linguistics (COLING), \\
+The Conference on Language Modeling (COLM), \\
+The China National Conference on Computational Linguistics (CCL), \\
+The CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), \\
+SIAM International Conference on Data Mining (SDM), \\
+The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), \\
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), \\
+IEEE/CVF International Conference on Computer Vision (ICCV), \\
+The European Conference on Computer Vision (ECCV), \\
+British Machine Vision Conference (BMVC), \\
+IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), \\
+American Control Conference (ACC), \\
+Intelligent System Applications to Power Systems Conference (ISAP), \\
+International Conference on Intelligent Multilingual Information Processing (IMLIP).
 \end{itemize}
 
-
-%% Reference
-%\newpage
-%\bibliographystyle{IEEETran}
-%\bibliography{mycite}
 \end{document}

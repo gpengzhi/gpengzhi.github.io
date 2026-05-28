@@ -67,12 +67,18 @@
 }
 
 \newcommand{\name}[1]{
-  \centerline{\Huge\scshape{#1}}
+  \centerline{\Huge\scshape{#1}} 
   \vspace{1.2ex}
 }
-
-\newcommand{\contactInfo}[4]{
-  \centerline{\sffamily\large{\ {#1} \textperiodcentered\ \ {#2}}
+\newcommand{\contactInfo}[2]{
+  \centerline{\sffamily\large{\ 手机：{#1} \textperiodcentered\ \ 邮箱：{#2}}} 
+  \vspace{1.2ex}
+}
+\newcommand{\otherInfo}[4]{
+  \centerline{\sffamily\large{\ {#1}}
+    \ifthenelse{\isempty{#2}}%
+      { } % if {#2} is empty
+      {\textperiodcentered\ \ {#2} } % homepage, no space before \text...
     \ifthenelse{\isempty{#3}}%
       { } % if {#3} is empty
       {\textperiodcentered\ \ {#3} } % homepage, no space before \text...
@@ -81,6 +87,10 @@
       {\textperiodcentered\ \ {#4} }
   }
   \vspace{0.7ex}
+}
+
+\newcommand{\yourphoto}[1]{
+  \hfill \smash{\includegraphics[width={#1}\paperwidth]{images/you.jpg}}
 }
 
 \newcommand{\role}[2]{
