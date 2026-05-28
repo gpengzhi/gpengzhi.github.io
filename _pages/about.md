@@ -38,7 +38,7 @@ I am an older version of the guy on the left and currently a Research Engineer &
 ------
 🆔 Chinese name: 高鹏至  
 📧 Email: gpengzhi (you can make the "at") gmail (dot) com  
-📍 No. 33 Xierqi Middle Road, Beijing, China 100085
+📍 No. 33 Xierqi Middle Road, Haidian District, Beijing, China 100085
 
 
 <!--

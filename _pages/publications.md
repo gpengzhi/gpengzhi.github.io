@@ -19,6 +19,10 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 
 G. Liu, J. Ye, **P. Gao**, W. Liu, J. Luan, Y. Liu, and Y. Li, "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking." arXiv preprint arXiv:2605.25160, 2026.
 
+W. Xu, K. Huang, Y. Feng, J. Li, Y. Chen, Y. Liu, Z. Jiang, H. Qu, **P. Gao**, W. Liu, J. Luan, X. Hu, and B. An, "How Mobile World Model Guides GUI Agents?" arXiv preprint arXiv:2605.10347, 2026.
+
+Y. Chen\*, **P. Gao**\*, Q. Wu, K. Huang, Y. Liu, H. Qu, K. Shao, and J. Luan, "Digital Agents Meet World Models: A Survey." May 2026. [[Paper](https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents/blob/main/paper.pdf)]
+
 Y. Shang, **P. Gao**, Y. Yang, J. Ma, W. Liu, J. Luan, and J. Su, "ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation." arXiv preprint arXiv:2603.14903, 2026.
 
 Y. Shang\*, **P. Gao**\*, W. Liu, J. Luan, and J. Su, "Scaling Model and Data for Multilingual Machine Translation with Open Large Language Models." arXiv preprint arXiv:2602.11961, 2026. [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/xiaomi-research/milmmt-46)]
@@ -53,7 +57,7 @@ H. Qu\*, Y. Liu\*, R. Jin, W. Zhang, **P. Gao**, W. Liu, and J. Luan, "Scaling, 
 
 Y. Liu, W. Xu, K. Huang, C. Chen, J. Zhao, **P. Gao**, W. Liu, J. Luan, S. Shang, B. Du, J. Wen, and R. Yan, "CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning." Proc. of the 43rd International Conference on Machine Learning (ICML), July 2026.
 
-Q. Wu, Z. Yang, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL), July 2026. [[Code](https://github.com/xiaomi-research/mobilebench-ol)]
+Q. Wu\*, Z. Yang\*, H. Li, **P. Gao**, W. Liu, and J. Luan, "MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment." Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL), July 2026. [[Code](https://github.com/xiaomi-research/mobilebench-ol)]
 
 Y. Chen, Y. Liu, L. Zhang, **P. Gao**, J. Luan, and W. Liu, "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization." Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL), July 2026.
 
