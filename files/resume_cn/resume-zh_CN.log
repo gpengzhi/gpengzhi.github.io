@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.4.7)  28 MAY 2026 16:08
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.4.7)  28 MAY 2026 16:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -537,7 +537,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 101.
 [1
 
-] [2] [3] [4] [5] [6] (./resume-zh_CN.aux)
+] [2] [3] [4] [5] (./resume-zh_CN.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -552,4 +552,4 @@ Here is how much of TeX's memory you used:
  319 hyphenation exceptions out of 8191
  103i,6n,123p,603b,309s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on resume-zh_CN.pdf (6 pages).
+Output written on resume-zh_CN.pdf (5 pages).
