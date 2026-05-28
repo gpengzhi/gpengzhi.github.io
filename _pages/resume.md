@@ -17,9 +17,9 @@ author_profile: true
 
 **🎓 Education**
 ------
-* 2013 - 2017: Rensselaer Polytechnic Institute, NY, USA. Ph.D. in Electrical Engineering.
-* 2011 - 2013: University of Pennsylvania, PA, USA. M.S. in Electrical Engineering.
-* 2007 - 2011: Xidian University, China. B.S. in Electronic and Information Engineering.
+* 2013 - 2017: Ph.D. in Electrical Engineering, Rensselaer Polytechnic Institute, NY, USA.
+* 2011 - 2013: M.S. in Electrical Engineering, University of Pennsylvania, PA, USA.
+* 2007 - 2011: B.S. in Electronic and Information Engineering, Xidian University, China.
 
 **💼 Work Experience**
 ------

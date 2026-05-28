@@ -37,13 +37,13 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu, "Introducing Texar-PyTorch: An ML Lib
 **📖 Journal Publications**
 ------
 
-**P. Gao**\*, R. Wang\*, M. Wang, and J. H. Chow, "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." IEEE Trans. Signal Processing, 2018, 66 (11): 2918-2932.
+**P. Gao**\*, R. Wang\*, M. Wang, and J. H. Chow, "Low-rank Matrix Recovery from Noisy, Quantized and Erroneous Measurements." IEEE Trans. on Signal Processing, 2018, 66 (11): 2918-2932.
 
-**P. Gao**, M. Wang, J. H. Chow, M. Berger, and L. M. Seversky, "Missing Data Recovery for High-dimensional Signals with Nonlinear Low-dimensional Structures." IEEE Trans. Signal Processing, 2017, 65 (20): 5421-5436.
+**P. Gao**, M. Wang, J. H. Chow, M. Berger, and L. M. Seversky, "Missing Data Recovery for High-dimensional Signals with Nonlinear Low-dimensional Structures." IEEE Trans. on Signal Processing, 2017, 65 (20): 5421-5436.
 
-**P. Gao**, M. Wang, J. H. Chow, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky, "Identification of Successive "Unobservable" Cyber Data Attacks in Power Systems Through Matrix Decomposition." IEEE Trans. Signal Processing, 2016, 64 (21): 5557-5570.
+**P. Gao**, M. Wang, J. H. Chow, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky, "Identification of Successive "Unobservable" Cyber Data Attacks in Power Systems Through Matrix Decomposition." IEEE Trans. on Signal Processing, 2016, 64 (21): 5557-5570.
 
-**P. Gao**, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos, "Missing Data Recovery by Exploiting Low-dimensionality in Power System Synchrophasor Measurements." IEEE Trans. Power Systems, 2016, 31 (2): 1006-1013.
+**P. Gao**, M. Wang, S. G. Ghiocel, J. H. Chow, B. Fardanesh, and G. Stefopoulos, "Missing Data Recovery by Exploiting Low-dimensionality in Power System Synchrophasor Measurements." IEEE Trans. on Power Systems, 2016, 31 (2): 1006-1013.
 
 
 **🎙️ Conference Publications**
