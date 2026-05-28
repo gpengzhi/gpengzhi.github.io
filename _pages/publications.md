@@ -21,7 +21,7 @@ G. Liu, J. Ye, **P. Gao**, W. Liu, J. Luan, Y. Liu, and Y. Li, "SimuWoB: Simulat
 
 W. Xu, K. Huang, Y. Feng, J. Li, Y. Chen, Y. Liu, Z. Jiang, H. Qu, **P. Gao**, W. Liu, J. Luan, X. Hu, and B. An, "How Mobile World Model Guides GUI Agents?" arXiv preprint arXiv:2605.10347, 2026.
 
-Y. Chen\*, **P. Gao**\*, Q. Wu, K. Huang, Y. Liu, H. Qu, K. Shao, and J. Luan, "Digital Agents Meet World Models: A Survey." May 2026. [[Paper](https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents/blob/main/paper.pdf)]
+Y. Chen\*, **P. Gao**\*, Q. Wu, K. Huang, Y. Liu, H. Qu, K. Shao, and J. Luan, "Digital Agents Meet World Models: A Survey." 2026. [[Paper](https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents/blob/main/paper.pdf)] [[Code](https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents)]
 
 Y. Shang, **P. Gao**, Y. Yang, J. Ma, W. Liu, J. Luan, and J. Su, "ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation." arXiv preprint arXiv:2603.14903, 2026.
 
