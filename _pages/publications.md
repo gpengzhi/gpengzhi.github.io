@@ -17,7 +17,7 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 **✍️ Preprints & Technical Reports**
 ------
 
-G. Liu, J. Ye, **P. Gao**, W. Liu, J. Luan, Y. Liu, and Y. Li, "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking." arXiv preprint arXiv:2605.25160, 2026.
+G. Liu, J. Ye, **P. Gao**, W. Liu, J. Luan, Y. Liu, and Y. Li, "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking." arXiv preprint arXiv:2605.25160, 2026. [[Project](https://scalewob.github.io/)]
 
 W. Xu, K. Huang, Y. Feng, J. Li, Y. Chen, Y. Liu, Z. Jiang, H. Qu, **P. Gao**, W. Liu, J. Luan, X. Hu, and B. An, "How Mobile World Model Guides GUI Agents?" arXiv preprint arXiv:2605.10347, 2026.
 
