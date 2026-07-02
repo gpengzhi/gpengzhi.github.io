@@ -19,6 +19,7 @@ I am an older version of the guy on the left and currently a Research Engineer &
 
 <div style="height: 220px; overflow-y: auto; border: 1px solid #e1e1e1; border-radius: 4px; padding: 0.6em 1em 0.6em 1.2em; margin-bottom: 1.2em;">
   <ul style="margin: 0; padding-left: 1.2em;">
+    <li>🚀 <strong>Jun 2026</strong> — Released the <a href="https://seerray-lab.github.io/Xiaomi-GUI-0/">Xiaomi-GUI-0</a> technical report, an end-to-end multimodal GUI agent for real mobile environments.</li>
     <li>🎉 <strong>May 2026</strong> — Two papers accepted to ICML 2026.</li>
     <li>🎉 <strong>Apr 2026</strong> — Three papers accepted to ACL 2026 Findings.</li>
     <li>🚀 <strong>Apr 2026</strong> — Released our curated list <a href="https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents">Awesome World Models for Digital Agents</a>.</li>
