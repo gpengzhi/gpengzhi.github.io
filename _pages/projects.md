@@ -7,7 +7,7 @@ author_profile: true
 
 **Xiaomi-GUI-0: An End-to-End Multimodal GUI Agent for Real Mobile Environments**
 ------
-[Xiaomi-GUI-0](https://github.com/SeerRay-Lab/Xiaomi-GUI-0) is a native end-to-end multimodal GUI agent for real mobile environments, trained and evaluated within a real-device closed loop to close the gap between benchmark scores and real-world usability. It combines a real-device-dominant hybrid infrastructure, an error-driven data flywheel that turns failure trajectories into recovery demonstrations, and a progressive three-stage training pipeline (SFT → Step RL → Agentic RL). It is evaluated on the in-house [RealMobile](https://seerray-lab.github.io/Xiaomi-GUI-0/) benchmark of real-device tasks across live applications.
+[Xiaomi-GUI-0](https://seerray-lab.github.io/Xiaomi-GUI-0/) is a native end-to-end multimodal GUI agent for real mobile environments, trained and evaluated within a real-device closed loop to close the gap between benchmark scores and real-world usability. It combines a real-device-dominant hybrid infrastructure, an error-driven data flywheel that turns failure trajectories into recovery demonstrations, and a progressive three-stage training pipeline (SFT → Step RL → Agentic RL). It is evaluated on the in-house [RealMobile](https://github.com/SeerRay-Lab/Xiaomi-GUI-0/tree/main/RealMobile) benchmark of real-device tasks across live applications.
 
 <div  align="center">
 <img src='/images/xiaomi_gui_0.png' width='700' height='280'>
