@@ -17,6 +17,8 @@ Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https:
 **✍️ Preprints & Technical Reports**
 ------
 
+W. Cao, C. Duan, P. Fu, **P. Gao**, N. Lian, F. Liu, H. Liu, H. Qu, Q. Wu, Z. Yu, T. Chen, S. Cui, A. Du, S. Jia, Y. Li, W. Liu, Y. Liu, W. Lu, Z. Luo, H. Sun, J. Sun, C. Tan, Y. Wang, C. Wu, T. Xiong, J. Yang, Y. Yuan, R. Zhang, S. Zhang, J. Zhu, J. Luan, and C. Zou, "Xiaomi-GUI-0 Technical Report." arXiv preprint arXiv:2606.31410, 2026. [[Project](https://seerray-lab.github.io/Xiaomi-GUI-0/)] [[Code](https://github.com/SeerRay-Lab/Xiaomi-GUI-0)]
+
 G. Liu, J. Ye, **P. Gao**, W. Liu, J. Luan, Y. Liu, and Y. Li, "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking." arXiv preprint arXiv:2605.25160, 2026. [[Project](https://scalewob.github.io/)]
 
 W. Xu, K. Huang, Y. Feng, J. Li, Y. Chen, Y. Liu, Z. Jiang, H. Qu, **P. Gao**, W. Liu, J. Luan, X. Hu, and B. An, "How Mobile World Model Guides GUI Agents?" arXiv preprint arXiv:2605.10347, 2026.
