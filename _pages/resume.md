@@ -7,14 +7,6 @@ author_profile: true
 
 [[Curriculum Vitae](/files/resume_en/resume_en.pdf)] [[中文简历](/files/resume_cn/resume-zh_CN.pdf)]
 
-<!--
-
-**Research Interests**
-------
-* Natural language processing, signal processing, and high-dimensional statistics
-
--->
-
 **🎓 Education**
 ------
 * 2013 - 2017: Ph.D. in Electrical Engineering, Rensselaer Polytechnic Institute, NY, USA.
@@ -28,18 +20,7 @@ author_profile: true
 * 2018 - 2020:        Petuum Inc., Data Scientist / Machine Learning Engineer.
 * 2010 - 2011:        Microsoft Research Asia, Research Intern.
 
-<!--
-
-**Research Experience**
-------
-* 2013 - 2017:        Rensselaer Polytechnic Institute, Research Assistant.
-* 2012 - 2013:        University of Pennsylvania, Research Assistant.
-
--->
-
-<!--
-
-**Awards**
+**🏆 Awards**
 ------
 * North America Finalist of IBM Watson Build Challenge, 2017.
 * Paper selected as the runner-up for Best Paper in Electric Energy Systems Track in Proc. of Hawaii International Conference on System Sciences, 2015.
@@ -49,8 +30,6 @@ author_profile: true
 * National Scholarship (top 0.2% nationwide), 2010.
 * First prize of the College Academic and Technological Scholarship (top 2%), 2008, 2009, 2010.
 * Excellent Student Award (top 1%), 2008.
-
--->
 
 **👥 Research Interns / Students Mentored**
 ------
@@ -105,49 +84,3 @@ author_profile: true
     * American Control Conference (ACC)
     * Intelligent System Applications to Power Systems Conference (ISAP)
     * International Conference on Intelligent Multilingual Information Processing (IMLIP)
-
-<!--
-
-**Skills**
-------
-* Proficiency with Matlab, Python, DyNet, PyTorch, and TensorFlow
-* Experienced in Java, R, C/C++, and C#
-
--->
-
-<!--
-* Student Member of IEEE, 2013 - 2017. Member of IEEE, 2018 - Now. Member of ACL, 2021 - Now.
-* RPI Student Representative at the Center for Ultra-wide-area Resilient Electric Energy Transmission Networks (CURENT), 2015 - 2016.
-* Teaching Assistant: 
-    * Modeling and Analysis of Uncertainty (Fall 2017)
-    * Distributed Systems and Sensor Networks (Fall 2017)
-    
-**Selected Courses**
-======
-* Xidian University
-
-Programming in C Language, Advanced Mathematics, Linear Algebra, Probability Theory and Statistics, General Physics, MATLAB language, Fundamentals of Circuit Analysis, Field Theory and Complex Variable Function, Signal and System, Fundamentals of Analog Electronic Technology, Digital Circuit and Logic Design, Fundamentals of Software Technique, Computational Methods, Discrete Mathematics, Stochastic Signal Processing, Principles of Communication, Digital Image Processing, Computer Network, Fundamentals of Internet Technique Application, Digital Signal Processing
-
-* University of Pennsylvania
-
-Digital Communication, Digital Signal Processing, Introduction to Networks and Protocols, Introduction to Optimization Theory, Linear System Theory, Networked System, Random Processes and Optimum Estimation, Wireless Sensor Network
-
-* Rensselaer Polytechnic Institute
-
-Analysis of Algorithms, Compressed Sensing and Its Applications, Computational Optimization, Deep Learning (Audit), Machine Learning From Data (Audit), Mathematical Analysis, Nonlinear Programming
-
-* Coursera (Audit)
-
-Data Science Specialization: The Data Scientist’s Toolbox, R Programming, Getting and Cleaning Data, Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developing Data Products
-
-Deep Learning Specialization: Neural Networks and Deep Learning, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, Structuring Machine Learning Projects
--->
-
-<!-- 
-**Advisor**
-======
-[Meng Wang](https://ecse.rpi.edu/~wang/)  
-Assistant Professor  
-Rensselaer Polytechnic Institute  
-Email: wangm7 (you can make the "at") rpi (dot) edu
--->
