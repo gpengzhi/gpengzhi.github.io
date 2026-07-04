@@ -12,9 +12,8 @@ author_profile: true
 **✈️ Travel**
 ------
 * U.S. states I have visited:
-<div  align="left">
-<img src='/images/US_States.png' width='540' height='346'>
-</div>
+
+{% include us-map.html %}
 
 **🏓 Ping Pong**
 ------
