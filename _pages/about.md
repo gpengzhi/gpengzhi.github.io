@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+<div class="text-justify" markdown="1">
 I am an older version of the guy on the left and currently a Research Engineer working on AI Agents at [Xiaomi](https://www.mi.com/). I was a Staff Research Engineer at [Baidu NLP](https://nlp.baidu.com/) and a Data Scientist at Petuum, an AI startup founded by [Prof. Eric Xing](https://www.cs.cmu.edu/~epxing/). I received my Ph.D. in Electrical Engineering from the Department of Electrical, Computer, and Systems Engineering at [Rensselaer Polytechnic Institute (RPI)](http://rpi.edu/), under the supervision of [Prof. Meng Wang](https://ecse.rpi.edu/~wang/). I received my M.S. in Electrical Engineering from [University of Pennsylvania (Penn)](http://www.upenn.edu/) and my B.S. (with honors) in Electronic and Information Engineering from [Xidian University](https://en.xidian.edu.cn/). My current research interests include Generative AI and LLM/VLM-based Agents.
+</div>
 
 
+<div class="text-justify" markdown="1">
 **🎯 Prospective Research Interns**: I am looking for highly motivated Ph.D. / Master's students with a background in Artificial Intelligence / Machine Learning / Natural Language Processing. Please contact me with your resume if you are interested.
+</div>
 
 
 **📰 News**
 ------
 
-<div style="height: 220px; overflow-y: auto; border: 1px solid #e1e1e1; border-radius: 4px; padding: 0.6em 1em 0.6em 1.2em; margin-bottom: 1.2em;">
+<div style="height: 340px; overflow-y: auto; border: 1px solid #e1e1e1; border-radius: 4px; padding: 0.6em 1em 0.6em 1.2em; margin-bottom: 1.2em;">
   <ul style="margin: 0; padding-left: 1.2em;">
     <li>🚀 <strong>Jun 2026</strong> — Released <a href="https://seerray-lab.github.io/Xiaomi-GUI-0/">Xiaomi-GUI-0</a>, our GUI agent for real mobile environments.</li>
     <li>🎉 <strong>May 2026</strong> — Two papers accepted to ICML 2026.</li>
