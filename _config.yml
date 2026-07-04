@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Pengzhi Gao"
 title_separator          : "-"
 name                     : &name "Pengzhi Gao"
-description              : &description "Research Engineer & Tech Lead Manager at Xiaomi Inc."
+description              : &description "Research Engineer at Xiaomi Inc."
 url                      : https://gpengzhi.github.io
 baseurl                  : ""
 repository               : "gpengzhi/gpengzhi.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Pengzhi Gao"
   pronouns         :
-  bio              : "Research Engineer & Tech Lead Manager at Xiaomi Inc."
+  bio              : "Research Engineer at Xiaomi Inc."
   location         : "Beijing, China"
   employer         :
   uri              :
