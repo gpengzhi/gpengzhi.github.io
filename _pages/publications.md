@@ -9,13 +9,6 @@ author_profile: true
 
 \* denotes equal contribution.
 
-**📜 Thesis**
-------
-High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applications in Synchrophasor Data Analysis in Power Systems.
-
-Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https://www.ecse.rpi.edu/~chowj/), [Birsen Yazici](https://www.ecse.rpi.edu/~yazici/), and [John E. Mitchell](https://mitchjrpi.github.io/).
-
-
 **✍️ Preprints & Technical Reports**
 ------
 
@@ -77,7 +70,7 @@ L. Gao, L. Zhang, **P. Gao**, W. Liu, J. Luan, and M. Xu, "GUI-Shift: Enhancing 
 
 G. Liu, J. Ye, J. Liu, Y. Li, W. Liu, **P. Gao**, J. Luan, and Y. Liu, "Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties." Proc. of the Workshop on Edge and Mobile Foundation Models (EdgeFM), November 2025. [[Project](https://agenthazard.github.io/)]
 
-Q. Wu, **P. Gao**, W. Liu, and J. Luan, "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism." Proc. of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2025. **Oral presentation** [[Code](https://github.com/xiaomi-research/backtrackagent)]
+Q. Wu, **P. Gao**, W. Liu, and J. Luan, "BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism." Proc. of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2025. <span style="color: red">Oral presentation</span> [[Code](https://github.com/xiaomi-research/backtrackagent)]
 
 M. Cui\*, **P. Gao**\*, W. Liu, J. Luan, and B. Wang, "Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study." Proc. of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), May 2025. [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/ModelSpace/gemmax2-673714f5049bfa3a90bee6b6)]
 
@@ -111,11 +104,18 @@ M. Wang, J. H. Chow, **P. Gao**, Y. Hao, W. Li, and R. Wang, "Recent Results of 
 
 **P. Gao**, M. Wang, and J. H. Chow, "Matrix Completion with Columns in Union and Sums of Subspaces." Proc. of IEEE Global Conference on Signal and Information Processing (GlobalSIP), December 2015.
 
-M. Wang, J. H. Chow, **P. Gao**, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky, "A Low-Rank Matrix Approach for the Analysis of Large Amounts of Power System Synchrophasor Data." Proc. of Hawaii International Conference on System Sciences (**Runner-up for Best Paper in Electric Energy Systems Track**), January 2015.
+M. Wang, J. H. Chow, **P. Gao**, X. T. Jiang, Y. Xia, S. G. Ghiocel, B. Fardanesh, G. Stefopoulos, Y. Kokai, N. Saito, and M. P. Razanousky, "A Low-Rank Matrix Approach for the Analysis of Large Amounts of Power System Synchrophasor Data." Proc. of Hawaii International Conference on System Sciences (<span style="color: red">Runner-up for Best Paper in Electric Energy Systems Track</span>), January 2015.
 
 M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, and M. P. Razanousky, "Identification of "Unobservable" Cyber Data Attacks on Power Grids." Proc. of IEEE SmartGridComm, November 2014.
 
-**P. Gao**, M. Wang, S. G. Ghiocel, and J. H. Chow, "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (**Best Conference Papers on Power System Analysis and Modeling**), July 2014.
+**P. Gao**, M. Wang, S. G. Ghiocel, and J. H. Chow, "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (<span style="color: red">Best Conference Papers on Power System Analysis and Modeling</span>), July 2014.
+
+
+**📜 Thesis**
+------
+High-dimensional Data Analysis by Exploiting Low-dimensional Models with Applications in Synchrophasor Data Analysis in Power Systems.
+
+Thesis Committee: [Meng Wang](https://ecse.rpi.edu/~wang/), [Joe H. Chow](https://www.ecse.rpi.edu/~chowj/), [Birsen Yazici](https://www.ecse.rpi.edu/~yazici/), and [John E. Mitchell](https://mitchjrpi.github.io/).
 
 </div>
 
