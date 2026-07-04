@@ -5,6 +5,8 @@ title: "Publications"
 author_profile: true
 ---
 
+<div class="text-justify" markdown="1">
+
 \* denotes equal contribution.
 
 **📜 Thesis**
@@ -115,6 +117,7 @@ M. Wang, **P. Gao**, S. G. Ghiocel, J. H. Chow, B. Fardanesh, G. Stefopoulos, an
 
 **P. Gao**, M. Wang, S. G. Ghiocel, and J. H. Chow, "Modeless Reconstruction of Missing Synchrophasor Measurements." Proc. of IEEE Power & Energy Society General Meeting (**Best Conference Papers on Power System Analysis and Modeling**), July 2014.
 
+</div>
 
 <!--
 **Patents**
