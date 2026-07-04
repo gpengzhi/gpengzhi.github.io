@@ -7,7 +7,9 @@ author_profile: true
 
 **Xiaomi-GUI-0: An End-to-End Multimodal GUI Agent for Real Mobile Environments**
 ------
+<div class="text-justify" markdown="1">
 [Xiaomi-GUI-0](https://seerray-lab.github.io/Xiaomi-GUI-0/) is a native end-to-end multimodal GUI agent for real mobile environments, trained and evaluated within a real-device closed loop to close the gap between benchmark scores and real-world usability. It combines a real-device-dominant hybrid infrastructure, an error-driven data flywheel that turns failure trajectories into recovery demonstrations, and a progressive three-stage training pipeline (SFT → Step RL → Agentic RL). It is evaluated on the [RealMobile](https://github.com/SeerRay-Lab/Xiaomi-GUI-0/tree/main/RealMobile) benchmark of real-device tasks across live applications.
+</div>
 
 <div  align="center">
 <img src='/images/xiaomi_gui_0.png' width='700' height='280'>
@@ -15,7 +17,9 @@ author_profile: true
 
 **Awesome World Models for Digital Agents**
 ------
+<div class="text-justify" markdown="1">
 [Awesome World Models for Digital Agents](https://github.com/Darwin-Agent/awesome-world-models-for-digital-agents) is a curated list and accompanying survey of world models for digital agents across games, web & GUI, tool use, and code. The survey introduces a unified design space W = (X, L, U): what is modeled (X), how it is built (L), and how it is used by the agent (U).
+</div>
 
 <div  align="center">
 <img src='/images/world_models_banner.png' width='700'>
@@ -23,7 +27,9 @@ author_profile: true
 
 **GemmaX: Multilingual Translator based on Gemma Open Models**
 ------
+<div class="text-justify" markdown="1">
 [GemmaX](https://github.com/xiaomi-research/gemmax) is a family of many-to-many LLM-based multilingual translation models that adopt multilingual continual pretraining with a Parallel-First Monolingual-Second (PFMS) data mixing strategy and instruction fine-tuning with high-quality translation prompts.
+</div>
 
 <div  align="center">
 <img src='/images/gemmax.png' width='450' height='253'>
@@ -31,7 +37,9 @@ author_profile: true
 
 **Forte: Composing Diverse NLP Tools for Text Retrieval, Analysis and Generation**
 ------
+<div class="text-justify" markdown="1">
 [Forte](https://github.com/asyml/forte) is a flexible, composable system designed for text processing, providing integrated architecture support for a wide spectrum of tasks, from Information Retrieval to Natural Language Processing (including text analysis and language generation). Built on principled abstractions and design patterns, Forte provides a platform to gather cutting-edge NLP and ML technologies in a composable manner.
+</div>
 
 <div  align="center">
 <img src='/images/forte.png' width='450' height='135'>
@@ -39,7 +47,9 @@ author_profile: true
 
 **Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation**
 ------
+<div class="text-justify" markdown="1">
 [Texar-PyTorch](https://github.com/asyml/texar-pytorch) is an open-source toolkit based on PyTorch, aiming to support a broad set of machine learning tasks, especially text generation tasks such as machine translation, dialog, summarization, content manipulation, and language modeling. Texar is designed for both researchers and practitioners for fast prototyping and experimentation.
+</div>
 
 <div  align="center">
 <img src='/images/texar.png' width='450' height='150'>
