@@ -37,6 +37,7 @@ author_profile: true
 
 **👥 Research Interns / Students Mentored**
 ------
+* Xiaoyu Ma, Southeast University, 2026.
 * Chuang Han, Institute of Automation, Chinese Academy of Sciences, 2026.
 * Tao Xiong, Zhejiang University, 2025 and 2026.
 * Zhizhuo Yang, Peking University, 2025.
