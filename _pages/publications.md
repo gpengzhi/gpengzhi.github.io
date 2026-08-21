@@ -26,8 +26,6 @@ Y. Shang, **P. Gao**, Y. Yang, J. Ma, W. Liu, J. Luan, and J. Su, "ExPosST: Expl
 
 Y. Shang\*, **P. Gao**\*, W. Liu, J. Luan, and J. Su, "Scaling Model and Data for Multilingual Machine Translation with Open Large Language Models." arXiv preprint arXiv:2602.11961, 2026. [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/xiaomi-research/milmmt-46)]
 
-T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agent for GUI Tasks." arXiv preprint arXiv:2509.23263, 2025.
-
 L. Gao, L. Zhang, S. Wang, **P. Gao**, W. Liu, J. Luan, S. Wang, Y. Li, and M. Xu, "MobileViews: A Million-scale and Diverse Mobile GUI Dataset." arXiv preprint arXiv:2409.14337, 2024. [[Data](https://huggingface.co/datasets/mllmTeam/MobileViews)]
 
 **P. Gao**, Z. He, H. Wu, and H. Wang, "Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models." arXiv preprint arXiv:2401.05861, 2024. [[Code](https://github.com/gpengzhi/CrossConST-LLM)]
@@ -51,6 +49,10 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu, "Introducing Texar-PyTorch: An ML Lib
 
 **🎙️ Conference Publications**
 ------
+
+T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agents for GUI Tasks." Proc. of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), October 2026.
+
+L. Zhang, Y. Chen, C. Zhang, W. Cao, K. Huang, **P. Gao**, W. Liu, J. Luan, C. Li, and L. Zou, "GSAR: Goal-State-Anchor Rewards for Mobile GUI Agents with Self-Evolving Data Synthesis." Proc. of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), October 2026.
 
 H. Qu\*, Y. Liu\*, R. Jin, W. Zhang, **P. Gao**, W. Liu, and J. Luan, "Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation." Proc. of the 43rd International Conference on Machine Learning (ICML), July 2026. [[Code](https://github.com/xiaomi-research/guievalkit)]
 
