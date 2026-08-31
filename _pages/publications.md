@@ -12,6 +12,8 @@ author_profile: true
 **✍️ Preprints & Technical Reports**
 ------
 
+T. Xiong, X. Hu, W. Wang, Q. Wu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "Task-Adaptive Rubrics for GUI Reward Modeling." arXiv preprint arXiv:2608.24174, 2026.
+
 C. Han, **P. Gao**, P. Fu, and J. Luan, "Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation." arXiv preprint arXiv:2608.10812, 2026. [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/xiaomi-research/milmmt-46)]
 
 W. Cao\*, C. Duan\*, P. Fu\*, **P. Gao**\*, N. Lian\*, F. Liu\*, H. Liu\*, H. Qu\*, Q. Wu\*, Z. Yu\*, T. Chen, S. Cui, A. Du, S. Jia, Y. Li, W. Liu, Y. Liu, W. Lu, Z. Luo, H. Sun, J. Sun, C. Tan, Y. Wang, C. Wu, T. Xiong, J. Yang, Y. Yuan, R. Zhang, S. Zhang, J. Zhu, J. Luan, and C. Zou, "Xiaomi-GUI-0 Technical Report." arXiv preprint arXiv:2606.31410, 2026. [[Project](https://seerray-lab.github.io/Xiaomi-GUI-0/)] [[Code](https://github.com/SeerRay-Lab/Xiaomi-GUI-0)]
