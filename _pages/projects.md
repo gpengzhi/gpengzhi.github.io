@@ -15,6 +15,7 @@ author_profile: true
 <img src='/images/xiaomi_gui_0.png' width='700' height='280'>
 </div>
 
+<!--
 **Awesome World Models for Digital Agents**
 ------
 <div class="text-justify" markdown="1">
@@ -24,6 +25,7 @@ author_profile: true
 <div  align="center">
 <img src='/images/world_models_banner.png' width='700'>
 </div>
+-->
 
 **GemmaX: Multilingual Translator based on Gemma Open Models**
 ------
