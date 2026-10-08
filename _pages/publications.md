@@ -12,6 +12,8 @@ author_profile: true
 **✍️ Preprints & Technical Reports**
 ------
 
+B. Han, Q. Wang, S. Liu, Z. Xiong, C. Wu, Y. Li, **P. Gao**, W. Liu, J. Luan, H. Qu, Y. Song, and Z. Cai, "Learning Reliable GUI Agents under Imperfect Priors." arXiv preprint arXiv:2609.39547, 2026.
+
 T. Xiong, X. Hu, W. Wang, Q. Wu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "Task-Adaptive Rubrics for GUI Reward Modeling." arXiv preprint arXiv:2608.24174, 2026.
 
 C. Han, **P. Gao**, P. Fu, and J. Luan, "Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation." arXiv preprint arXiv:2608.10812, 2026. [[Code](https://github.com/xiaomi-research/gemmax)] [[Model](https://huggingface.co/collections/xiaomi-research/milmmt-46)]
