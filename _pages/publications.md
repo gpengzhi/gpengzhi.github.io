@@ -54,6 +54,8 @@ Z. Hu, **P. Gao**, A. Bukkittu, and Z. Hu, "Introducing Texar-PyTorch: An ML Lib
 **🎙️ Conference Publications**
 ------
 
+C. Zhang, W. Cao, L. Zhang, Y. Chen, **P. Gao**, W. Liu, J. Luan, C. Li, and L. Zou, "From Constraint to Guidance: Progressive Process Rewards for GUI Agents." Proc. of the 20th ACM International Conference on Web Search and Data Mining (WSDM), February 2027.
+
 W. Xu, Z. Jiang, L. Jiang, K. Huang, Y. Liu, **P. Gao**, W. Liu, J. Luan, X. Hu, and B. An, "OfficeInstruct: A Dataset for Tool-Augmented Office Agents on Long-Trajectory Generative Tasks." Proc. of the 40th Annual Conference on Neural Information Processing Systems (NeurIPS): Evaluations and Datasets Track, December 2026.
 
 T. Xiong, X. Hu, Y. Chen, Y. Liu, C. Wu, **P. Gao**, W. Liu, J. Luan, and S. Zhang, "GUI-PRA: Process Reward Agents for GUI Tasks." Proc. of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), October 2026.
